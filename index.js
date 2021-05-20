@@ -1,7 +1,7 @@
 let group = document.querySelector("#groupBtn");
 let jsonFile = document.body
 
-let nameFileJson = "/" + jsonFile.id + ".json"
+let nameFileJson = jsonFile.id + ".json"
 console.log(jsonFile)
 
 function requer() {
