@@ -1,0 +1,496 @@
+{
+    "titulo": "Curso de Javascript - CFBCursos",
+    "canal": "CFBCursos",
+    "ano": 2021,
+    "professor": "Bruno",
+    "sinopse": "Professor Bruno na Area Moçada.",
+    "videos": [{
+            "titulo": "document.write('Introdução');",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=1"
+        },
+        {
+            "titulo": "Variáveis",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=2"
+        },
+        {
+            "titulo": "Constantes",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=3"
+        },
+        {
+            "titulo": "Alert",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=4"
+        },
+        {
+            "titulo": "Prompt",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=5"
+        },
+        {
+            "titulo": "Confirm",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=6"
+        },
+        {
+            "titulo": "IF - ELSE",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=7"
+        },
+        {
+            "titulo": "Operadores Lógicos AND ( && ) e OR ( || )",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=8"
+        },
+        {
+            "titulo": "IF com múltiplos retornos",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=9"
+        },
+        {
+            "titulo": " IF aninhado",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=10"
+        },
+        {
+            "titulo": "Blocos de Comando",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=11"
+        },
+        {
+            "titulo": "TeZMgKTPdpQ",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=12"
+        },
+        {
+            "titulo": "Array / Vetor - Parte 1",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=13"
+        },
+        {
+            "titulo": "Array / Vetor - Parte 2 - Métodos da classe array",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=14"
+        },
+        {
+            "titulo": "Array / Vetor Parte 3 - Mais métodos da classe array",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=15"
+        },
+        {
+            "titulo": "Trabalhando com Matriz",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=16"
+        },
+        {
+            "titulo": "Incremento e decremento de variáveis",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=17"
+        },
+        {
+            "titulo": "Comando de loop FOR",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=18"
+        },
+        {
+            "titulo": "Comando de loop WHILE",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=19"
+        },
+        {
+            "titulo": "Comando de loop DO WHILE",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=20"
+        },
+        {
+            "titulo": "Declaração de variável com let",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=21"
+        },
+        {
+            "titulo": "Tratamento de erros / try catch finally",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=22"
+        },
+        {
+            "titulo": "Manipular elementos html com Javascript",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=23"
+        },
+        {
+            "titulo": "innerHTML e mais sobre getElementById",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=24"
+        },
+        {
+            "titulo": "getElementsByTagName",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=25"
+        },
+        {
+            "titulo": "querySelectorAll",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=26"
+        },
+        {
+            "titulo": "Manipulando Forms com Javascript",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=27"
+        },
+        {
+            "titulo": "Date() - Manipular Data e Hora",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=28"
+        },
+        {
+            "titulo": "Math - Métodos e Constantes matemáticas",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=29"
+        },
+        {
+            "titulo": "Funções - Criando suas próprias funções",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=30"
+        },
+        {
+            "titulo": "Escopo de variáveis",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=31"
+        },
+        {
+            "titulo": "Eventos",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=32"
+        },
+        {
+            "titulo": "addEventListener (Eventos)",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=33"
+        },
+        {
+            "titulo": "addEventListener (Keydown)",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=34"
+        },
+        {
+            "titulo": "setTimeout e setInterval",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=35"
+        },
+        {
+            "titulo": "Solução desafio da aula 34",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=36"
+        },
+        {
+            "titulo": "Base para movimentação de personagens...",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=37"
+        },
+        {
+            "titulo": "Relógio digital funcional",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=38"
+        },
+        {
+            "titulo": "requestAnimationFrame",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=39"
+        },
+        {
+            "titulo": "Solução desafio da aula 39",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=40"
+        },
+        {
+            "titulo": "Recursividade",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=41"
+        },
+        {
+            "titulo": "Formatação Condicional",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=42"
+        },
+        {
+            "titulo": "Slider em Javascript",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=43"
+        },
+        {
+            "titulo": "Modernizando o Slider",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=44"
+        },
+        {
+            "titulo": "Manipulando atributos html por...",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=45"
+        },
+        {
+            "titulo": "Match",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=46"
+        },
+        {
+            "titulo": "Métodos para manipulação de string P2",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=47"
+        },
+        {
+            "titulo": "Métodos para manipulação de string P3",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=48"
+        },
+        {
+            "titulo": "Métodos para manipulação de string P4",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=49"
+        },
+        {
+            "titulo": "Jogo da Forca - Resolução do desafio da aula",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=50"
+        },
+        {
+            "titulo": "Jogo da Velha - P1",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=51"
+        },
+        {
+            "titulo": "Jogo da Velha - P2",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=52"
+        },
+        {
+            "titulo": "Jogo da Velha - P3",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=53"
+        },
+        {
+            "titulo": "Jogo da Velha - P4",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=54"
+        },
+        {
+            "titulo": "Jogo da Velha - P5",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=55"
+        },
+        {
+            "titulo": "Jogo da Velha(Final) P6",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=56"
+        },
+        {
+            "titulo": "Jogo Pong - P1",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=57"
+        },
+        {
+            "titulo": "Jogo Pong - P2",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=58"
+        },
+        {
+            "titulo": "Jogo Pong - P3",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=59"
+        },
+        {
+            "titulo": "Jogo Pong - P4",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=60"
+        },
+        {
+            "titulo": "Jogo Pong - P5(Final)",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=61"
+        },
+        {
+            "titulo": "Objeto Window - P1 (open, close)",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=62"
+        },
+        {
+            "titulo": "Objeto Window - P2 (InnerWudt...)",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=63"
+        },
+        {
+            "titulo": " Objeto Window - P (ScrollBy, Flames, Lengt...)",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=64"
+        },
+        {
+            "titulo": " Objeto Navigator",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=65"
+        },
+        {
+            "titulo": "Objeto Screen",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=66"
+        },
+        {
+            "titulo": "Objeto History",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=67"
+        },
+        {
+            "titulo": "Objeto Location P1",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=68"
+        },
+        {
+            "titulo": "Objeto Location P2",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=69"
+        },
+        {
+            "titulo": "LocalStorage (Web Storage) - P1",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=70"
+        },
+        {
+            "titulo": "LocalStorage (Web Storage) - P2",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=71"
+        },
+        {
+            "titulo": "SessionStorage (Web Storage)",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=72"
+        },
+        {
+            "titulo": "CreateElement / appendChild,...",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=73"
+        },
+        {
+            "titulo": "CreateAttribute / Configurando...",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=74"
+        },
+        {
+            "titulo": "insertBefore / childNodes, inserindo...",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=75"
+        },
+        {
+            "titulo": "replaceChild, substituir elementos",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=76"
+        },
+        {
+            "titulo": "parentNode, remove, removeChild",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=77"
+        },
+        {
+            "titulo": "getAttribute, obtendo atributos HT...",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=78"
+        },
+        {
+            "titulo": "jogo de nave em Javascript - P1",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=79"
+        },
+        {
+            "titulo": "jogo de nave em Javascript - P2",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=80"
+        },
+        {
+            "titulo": "jogo de nave em Javascript - P3",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=81"
+        },
+        {
+            "titulo": "jogo de nave em Javascript - P4",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=82"
+        },
+        {
+            "titulo": "jogo de nave em Javascript - P5",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=83"
+        },
+        {
+            "titulo": "jogo de nave em Javascript - P6",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=84"
+        },
+        {
+            "titulo": "jogo de nave em Javascript - P7",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=85"
+        },
+        {
+            "titulo": "jogo de nave em Javascript - P8",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=86"
+        },
+        {
+            "titulo": "jogo de nave em Javascript - P9",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=87"
+        },
+        {
+            "titulo": "Capturando o elemento ativo na página - activeElement",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=88"
+        },
+        {
+            "titulo": "Verificando se a página está em foco - hasFocus",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=89"
+        },
+        {
+            "titulo": "Propriedades personalizadas",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=90"
+        },
+        {
+            "titulo": "Como Rolar a janela - scrollIntoView",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=91"
+        },
+        {
+            "titulo": "Ocultando elementos - hidden",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=92"
+        },
+        {
+            "titulo": "Javascript em arquivo externo",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=93"
+        },
+        {
+            "titulo": "Como criar Cookies",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=94"
+        },
+        {
+            "titulo": "Declarando variáveis com LET e CONST em Javascript ",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=95"
+        },
+        {
+            "titulo": "Operação ternária em Javascript - Curso de React Native",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=96"
+        },
+        {
+            "titulo": "Operador Spread em Javascript - Curso de React Native",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=97"
+        },
+        {
+            "titulo": "Operador Spread em Javascript #P2 - Curso de React Native",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=98"
+        },
+        {
+            "titulo": "Loops FOR IN e FOR OF",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=99"
+        },
+        {
+            "titulo": "Parâmetros REST em Javascript",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=100"
+        },
+        {
+            "titulo": "Funções Anônimas em Javascript",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=101"
+        },
+        {
+            "titulo": "Função Construtora",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=102"
+        },
+        {
+            "titulo": "Arrow Function em Javascript ",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=103"
+        },
+        {
+            "titulo": "Função Geradora em Javascript ",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=104"
+        },
+        {
+            "titulo": "Objetos Literais em Javascript",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=105"
+        },
+        {
+            "titulo": "Novos métodos para String em Javascript ",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=106"
+        },
+        {
+            "titulo": "Iterator em Javascript",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=107"
+        },
+        {
+            "titulo": "Objeto Map em Javascript",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=108"
+        },
+        {
+            "titulo": "Objeto Map em Javascript #P2",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=109"
+        },
+        {
+            "titulo": "POO Classes #P1",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=110"
+        },
+        {
+            "titulo": "POO Classes #P2 Métodos",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=111"
+        },
+        {
+            "titulo": "POO Classes #P3 Getter e Setter",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=112"
+        },
+        {
+            "titulo": "POO Classes #P4 Static",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=113"
+        },
+        {
+            "titulo": "POO Classes #P5 Herança ",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=114"
+        },
+        {
+            "titulo": "Prototype",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=115"
+        },
+        {
+            "titulo": "Promise em Javascript",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=116"
+        },
+        {
+            "titulo": "Coleção SET em Javascript",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=117"
+        },
+        {
+            "titulo": "Método MAP",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=118"
+        },
+        {
+            "titulo": "Async Await",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=119"
+        },
+        {
+            "titulo": "Método Filter da classe Array",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=120"
+        },
+        {
+            "titulo": "Método Reduce da classe Array",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=121"
+        },
+        {
+            "titulo": "JSON em Javascript ",
+            "video": "embed?v=2lMMbSPH58s&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC&index=122"
+        }
+    ]
+}

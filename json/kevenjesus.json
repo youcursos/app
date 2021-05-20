@@ -1,0 +1,152 @@
+{
+    "titulo": "Curso grátis de Javascript",
+    "canal": "keven jesus",
+    "ano": 2019,
+    "professor": "keven jesus",
+    "sinopse": "O curso de Javascript com jQuery vem com objetivo de desvendar os princípios da linguagem para iniciantes.",
+    "videos": [{
+            "titulo": "Bem vindo",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=1"
+        },
+        {
+            "titulo": "O que é DOM?",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=2"
+        },
+        {
+            "titulo": "DOM | getElementById",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=3"
+        },
+        {
+            "titulo": "DOM | getElementsByClassName",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=4"
+        },
+        {
+            "titulo": "DOM | getElementsByTagName",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=5"
+        },
+        {
+            "titulo": "DOM | querySelector",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=6"
+        },
+        {
+            "titulo": "DOM | querySelectorAll",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=7"
+        },
+        {
+            "titulo": "DOM | createElement",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=8"
+        },
+        {
+            "titulo": "DOM | appendChild",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=9"
+        },
+        {
+            "titulo": "DOM | removeChild",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=10"
+        },
+        {
+            "titulo": "DOM | parentNode",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=11"
+        },
+        {
+            "titulo": "Tipos de dados",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=12"
+        },
+        {
+            "titulo": "Váriaveis",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=13"
+        },
+        {
+            "titulo": "Objetos",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=14"
+        },
+        {
+            "titulo": "Arrays",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=15"
+        },
+        {
+            "titulo": "Operadores matemáticos",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=16"
+        },
+        {
+            "titulo": "Condicionais",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=17"
+        },
+        {
+            "titulo": "for, forEach, map e while",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=18"
+        },
+        {
+            "titulo": "Funções",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=19"
+        },
+        {
+            "titulo": "Eventos | onload",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=20"
+        },
+        {
+            "titulo": "Eventos | Clcik",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=21"
+        },
+        {
+            "titulo": "Eventos | Hover",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=22"
+        },
+        {
+            "titulo": "Eventos | Change",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=23"
+        },
+        {
+            "titulo": "Blur",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=24"
+        },
+        {
+            "titulo": "Keyup",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=25"
+        },
+        {
+            "titulo": "Keypress",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=26"
+        },
+        {
+            "titulo": "Submit",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=27"
+        },
+        {
+            "titulo": "O que é JQuery?",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=28"
+        },
+        {
+            "titulo": "JQuery | Seletores",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=29"
+        },
+        {
+            "titulo": "JQuery | Efeitos",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=30"
+        },
+        {
+            "titulo": "JQuery | Eventos",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=31"
+        },
+        {
+            "titulo": "JQuery | Delay",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=32"
+        },
+        {
+            "titulo": "jQuery | addClass e removeClass",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=33"
+        },
+        {
+            "titulo": "jQuery | Serialize e SerializeArray",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=34"
+        },
+        {
+            "titulo": "jQuery | Position e Offset",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=35"
+        },
+        {
+            "titulo": " jQuery | Scroll e scrollTop",
+            "video": "embed?v=ftWXUUM5YxU&list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW&index=36"
+        }
+    ]
+}

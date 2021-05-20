@@ -1,0 +1,140 @@
+{
+    "titulo": "Curso Javascript",
+    "canal": "Curso em Video",
+    "ano": 2019,
+    "professor": "Gustavo Guanabara",
+    "sinopse": "Aula do Curso de Programação em Linguagem Javascript criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.",
+    "videos": [{
+            "titulo": "Teaser",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=1"
+        },
+        {
+            "titulo": "Curso Grátis de JavaScript Moderno",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=2"
+        },
+        {
+            "titulo": "Módulo A - Conhecendo o JavaScript",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=3"
+        },
+        {
+            "titulo": "O que o JavaScript é capaz de fazer?",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=4"
+        },
+        {
+            "titulo": "JavaScript: como chegamos até aqui?",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=5"
+        },
+        {
+            "titulo": "Dando os primeiros passos",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=6"
+        },
+        {
+            "titulo": "Criando o seu primeiro script",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=7"
+        },
+        {
+            "titulo": "Módulo B - Comandos Básicos do JavaScript",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=8"
+        },
+        {
+            "titulo": "Variáveis e Tipos Primitivos",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=9"
+        },
+        {
+            "titulo": "Tratamento de dados",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=10"
+        },
+        {
+            "titulo": "Operadores (Parte1)",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=11"
+        },
+        {
+            "titulo": "Operadores (Parte2)",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=12"
+        },
+        {
+            "titulo": "Módulo C - Entendendo o DOM",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=13"
+        },
+        {
+            "titulo": "Introdução ao DOM ",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=14"
+        },
+        {
+            "titulo": "Eventos DOM ",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=15"
+        },
+        {
+            "titulo": "Módulo D - Condições em JavaScript",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=16"
+        },
+        {
+            "titulo": "Condições (Parte 1)",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=17"
+        },
+        {
+            "titulo": "Condições (Parte 2)",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=18"
+        },
+        {
+            "titulo": "Exercícios JavaScript (Parte 1)",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=19"
+        },
+        {
+            "titulo": "Exercícios JavaScript (Parte 2)",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=20"
+        },
+        {
+            "titulo": "Exercícios JavaScript (Parte 3)",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=21"
+        },
+        {
+            "titulo": "Módulo E - Repetições em JavaScript",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=22"
+        },
+        {
+            "titulo": "Repetições (Parte 1)",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=23"
+        },
+        {
+            "titulo": "Repetições (Parte 2)",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=24"
+        },
+        {
+            "titulo": "Exercícios JavaScript (Parte 4)",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=25"
+        },
+        {
+            "titulo": "Exercícios JavaScript (Parte 5)",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=26"
+        },
+        {
+            "titulo": "Exercícios JavaScript (Parte 6)",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=27"
+        },
+        {
+            "titulo": "Módulo F - Avançando os estudos em JavaScript",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=28"
+        },
+        {
+            "titulo": "Variáveis Compostas",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=29"
+        },
+        {
+            "titulo": "Funções",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=30"
+        },
+        {
+            "titulo": "Exercícios JavaScript (Parte 7)",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=31"
+        },
+        {
+            "titulo": "Exercícios JavaScript (Parte 7)",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=32"
+        },
+        {
+            "titulo": "Próximos Passos",
+            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=33"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "titulo": "Curso de JAVASCRIPT desde CERO",
+    "canal": "Soy Dalto",
+    "ano": 2021,
+    "professor": "Dalto",
+    "sinopse": "¿Queres aprender a programar en Javascript desde cero? ",
+    "videos": [{
+            "titulo": "Nivel JUNIOR",
+            "video": "embed?v=z95mZVUcJ-E&list=PLE8uP447fYpiBqMVF1hdWl9uFeVEeXRTm&index=1"
+        },
+        {
+            "titulo": "Nivel MID LEVEL",
+            "video": "embed?v=z95mZVUcJ-E&list=PLE8uP447fYpiBqMVF1hdWl9uFeVEeXRTm&index=2"
+        },
+        {
+            "titulo": "Nivel Master",
+            "video": "embed?v=z95mZVUcJ-E&list=PLE8uP447fYpiBqMVF1hdWl9uFeVEeXRTm&index=3"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "titulo": "Curso de Javascript - Node Studio Treinamentos",
+    "canal": "Node Studio Treinamentos",
+    "ano": 2019,
+    "professor": "Rodrigo Oliveira",
+    "sinopse": "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.",
+    "videos": [{
+            "titulo": "Introdução ao Javascript",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=1"
+        },
+        {
+            "titulo": "Javascript ou Ecmascript",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=2"
+        },
+        {
+            "titulo": "VS Code e Olá mundo",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=3"
+        },
+        {
+            "titulo": "Console.log",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=4"
+        },
+        {
+            "titulo": "Sobre o BOM",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=5"
+        },
+        {
+            "titulo": "Sobre o BOM (Parte 02)",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=6"
+        },
+        {
+            "titulo": "getElementById & getElementsByClassName",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=7"
+        },
+        {
+            "titulo": "getElementsByTagName e querySelector",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=8"
+        },
+        {
+            "titulo": "querySelectorAll",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=9"
+        },
+        {
+            "titulo": "DOM | innerHTML, Style e Atributos",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=10"
+        },
+        {
+            "titulo": "createElement",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=11"
+        },
+        {
+            "titulo": "appendChild e removeChild",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=12"
+        },
+        {
+            "titulo": "childNodes",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=13"
+        },
+        {
+            "titulo": "nodeName, nodeType, nodeValue",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=14"
+        },
+        {
+            "titulo": "DOM | parentNode",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=15"
+        },
+        {
+            "titulo": "getAttribute, setAttribute e removeAttribute",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=16"
+        },
+        {
+            "titulo": "createTextNode e textContent",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=17"
+        },
+        {
+            "titulo": "DOM | children e insertBefore",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=18"
+        },
+        {
+            "titulo": "DOM | replaceChild",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=19"
+        },
+        {
+            "titulo": "Tipos de dados",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=20"
+        },
+        {
+            "titulo": "Variáveis (var, let, const e escopo)",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=21"
+        },
+        {
+            "titulo": "Arrays",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=22"
+        },
+        {
+            "titulo": "Objeto",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=23"
+        },
+        {
+            "titulo": "Operadores Aritméticos",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=24"
+        },
+        {
+            "titulo": "Operadores de Atribuição",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=25"
+        },
+        {
+            "titulo": "Operadores Lógicos, Comparação e Ternário",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=26"
+        },
+        {
+            "titulo": "Condicionais (If, Else, ElseIF, Switch)",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=27"
+        },
+        {
+            "titulo": "8 Loops (For e While)",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=28"
+        },
+        {
+            "titulo": "Loops (For In e For Of)",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=29"
+        },
+        {
+            "titulo": "Funções",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=30"
+        },
+        {
+            "titulo": "alert, prompt e confirm",
+            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=31"
+        }
+    ]
+}

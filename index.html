@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cine Cursos</title>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/69d4cc193b.js" crossorigin="anonymous"></script>
+</head>
+
+<body class="container" onload="requer()" id="JavaScriptCursoEmVideo">
+    <div class="container">
+        <!-- Just an image -->
+        <nav class="navbar navbar-expand navbar-light">
+            <a class="navbar-brand" href="#">
+                <img src="image/logo.png" width="30" height="30" alt="">
+            </a>
+            <div class="navbar-nav">
+                <a class="nav-link text-white active" href="#">Home <span class="sr-only">(current)</span></a>
+                <a class="nav-link text-white" href="#">Iniciante</a>
+                <a class="nav-link text-white" href="#">Intermediario</a>
+                <a class="nav-link text-white" href="#">Avançado</a>
+            </div>
+        </nav>
+    </div>
+    <!-- Carrossel -->
+    <div class="container px-5">
+
+        <div id="carouselExampleSlidesOnly" class="carouselcontainer" data-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="https://i.ytimg.com/vi/BXqUH86F-kA/maxresdefault.jpg" class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-md-block">
+                        <a href="JavaScriptCursoEmVideo.html">
+                            <h1 class="text-white">Curso de Javascript</h1>
+                        </a>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+    <!-- Div Contenedor -->
+    <div id="recebe">
+
+        <div class="my-5">
+            <h1 class="text-white">Iniciante</h1>
+            <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+
+                <div class="cardCursos">
+                    <a href="pages/soyDaltoJs.html">
+                        <img src="https://i.ytimg.com/vi/z95mZVUcJ-E/maxresdefault.jpg" class="card-img-top" alt="...">
+                        <div class="card-body text-white d-flex justify-content-center align-itens-center">
+                            <h6 class="card-title">Curso de JAVASCRIPT desde CERO (Completo)</h6>
+
+                        </div>
+                    </a>
+                </div>
+                <div class="cardCursos">
+                    <a href="pages/JavaScriptCursoEmVideo.html">
+                        <img src="https://i.ytimg.com/vi/BXqUH86F-kA/maxresdefault.jpg" class="card-img-top " alt="...">
+                        <div class="card-body text-white d-flex justify-content-center align-itens-center">
+                            <h6 class="card-title">Curso de Javascript Gustavo Guanabara</h6>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="cardCursos">
+                    <a href="pages/CFBCursos.html">
+                        <img src="https://i.ytimg.com/vi/a8HT2wZq2mc/maxresdefault.jpg" class="card-img-top " alt="...">
+                        <div class="card-body text-white d-flex justify-content-center align-itens-center">
+                            <h6 class="card-title">Curso de Javascript Fessor Bruno</h6>
+                        </div>
+                    </a>
+                </div>
+                <div class="cardCursos">
+                    <a href="pages/nodeStudioTreinamentos.html">
+                        <img src="https://i.ytimg.com/vi/uFMUdv1W1p4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBerfyxZR_qUF3KvNNl-Je-a6Vy2g" class="card-img-top " alt="...">
+                        <div class="card-body text-white d-flex justify-content-center align-itens-center">
+                            <h6 class="card-title">Curso de Javascript Node Studio Treinamentos</h6>
+                        </div>
+                    </a>
+                </div>
+                <div class="cardCursos">
+                    <a href="pages/kevenjesus.html">
+                        <img src="https://i.ytimg.com/vi/ftWXUUM5YxU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA67UPEhePBCRgF11-gzTmV3NGyKQ" class="card-img-top " alt="...">
+                        <div class="card-body text-white d-flex justify-content-center align-itens-center">
+                            <h6 class="card-title">O curso de Javascript com jQuery...</h6>
+                        </div>
+                    </a>
+                </div>
+
+
+            </div>
+        </div>
+
+    </div>
+
+    <script src="index.js"></script>
+</body>
+
+</html>
