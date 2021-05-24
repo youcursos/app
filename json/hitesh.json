@@ -1,0 +1,264 @@
+{
+    "titulo": "Course Javascript - Hitesh Choudhary",
+    "canal": "Hitesh Choudhary",
+    "ano": 2020,
+    "professor": "Hitesh",
+    "sinopse": "Welcome to new JavaScript course",
+    "videos": [{
+            "titulo": "Welcome to new JavaScript course",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=1"
+        },
+        {
+            "titulo": "Welcome to Javascript Course",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=2"
+        },
+        {
+            "titulo": "What are Javascript engines",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=3"
+        },
+        {
+            "titulo": "What ES version of javascript is good for us",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=4"
+        },
+        {
+            "titulo": "Variable and datatypes in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=5"
+        },
+        {
+            "titulo": "Our first User Signup",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=6"
+        },
+        {
+            "titulo": "Operators in javascript | Calculate discount",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=7"
+        },
+        {
+            "titulo": "Type and Operator precedence in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=8"
+        },
+        {
+            "titulo": "What are conditionals in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=9"
+        },
+        {
+            "titulo": "Logical conditional Login in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=10"
+        },
+        {
+            "titulo": "Ternary operator in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=11"
+        },
+        {
+            "titulo": "Switch for role based access in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=12"
+        },
+        {
+            "titulo": "Coercion and falsy values in JavaScript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=13"
+        },
+        {
+            "titulo": "Basics of functions in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=14"
+        },
+        {
+            "titulo": "Functions in variable | User Role in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=15"
+        },
+        {
+            "titulo": "Understand the context in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=16"
+        },
+        {
+            "titulo": "Code hoisting in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=17"
+        },
+        {
+            "titulo": "Scope chaining in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=18"
+        },
+        {
+            "titulo": "Light intro to THIS in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=19"
+        },
+        {
+            "titulo": "Introduction to Array in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=20"
+        },
+        {
+            "titulo": "Callback and arrow function introduction in array",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=21"
+        },
+        {
+            "titulo": "Fill and Filter in Array in Javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=22"
+        },
+        {
+            "titulo": "Slice and Splice in Javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=23"
+        },
+        {
+            "titulo": "Objects in Javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=24"
+        },
+        {
+            "titulo": "Methods and objects in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=25"
+        },
+        {
+            "titulo": "For loop basics in Javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=26"
+        },
+        {
+            "titulo": "While and do while loops in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=27"
+        },
+        {
+            "titulo": "While and do while loops in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=28"
+        },
+        {
+            "titulo": "For Each loop in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=29"
+        },
+        {
+            "titulo": "For in and for of loop in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=30"
+        },
+        {
+            "titulo": "Confusing part of THIS in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=31"
+        },
+        {
+            "titulo": "What is DOM",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=32"
+        },
+        {
+            "titulo": "What is DOM",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=33"
+        },
+        {
+            "titulo": "How to grab web elements in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=34"
+        },
+        {
+            "titulo": "A counter project in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=35"
+        },
+        {
+            "titulo": "Get Computed properties in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=36"
+        },
+        {
+            "titulo": "Event listener in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=37"
+        },
+        {
+            "titulo": "New keyword in Javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=38"
+        },
+        {
+            "titulo": "What is proto in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=39"
+        },
+        {
+            "titulo": "What is proto in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=40"
+        },
+        {
+            "titulo": "Better code with object chain in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=41"
+        },
+        {
+            "titulo": "Objects from MDN docs",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=42"
+        },
+        {
+            "titulo": "Self Executing Anonymous Function and functional programming",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=43"
+        },
+        {
+            "titulo": "Lexical scoping in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=44"
+        },
+        {
+            "titulo": "Closure in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=45"
+        },
+        {
+            "titulo": "Borrow a method using bind",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=46"
+        },
+        {
+            "titulo": "Get to know node Elements in Javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=47"
+        },
+        {
+            "titulo": "Generating elements and Text node in DOM",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=48"
+        },
+        {
+            "titulo": "Solution of Scope problem in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=49"
+        },
+        {
+            "titulo": "Template literals in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=50"
+        },
+        {
+            "titulo": "Maps in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=51"
+        },
+        {
+            "titulo": "Destructure the data in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=52"
+        },
+        {
+            "titulo": "Spread and REST operators in Javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=53"
+        },
+        {
+            "titulo": "Classes and module exports in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=54"
+        },
+        {
+            "titulo": "Private props getters and setters in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=55"
+        },
+        {
+            "titulo": "Inheritance in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=56"
+        },
+        {
+            "titulo": "Event loop | Will javascript wait?",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=57"
+        },
+        {
+            "titulo": "Promise async and await in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=58"
+        },
+        {
+            "titulo": "How to Handle API in javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=59"
+        },
+        {
+            "titulo": "Get to know game files",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=60"
+        },
+        {
+            "titulo": "Logic of game | javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=61"
+        },
+        {
+            "titulo": "Fixing the bug in game | Javascript",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=62"
+        },
+        {
+            "titulo": "What is new in Javascript 2021",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=63"
+        },
+        {
+            "titulo": "Why iife appears in javascript interviews",
+            "video": "embed?v=t1qDSAUclzI&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=64"
+        }
+    ]
+}
