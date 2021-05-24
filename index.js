@@ -36,7 +36,7 @@ function requer() {
         </h3>
         <div class="details">
             <p class="relevant" id="canal">
-            Canal: ${dados.canal}
+            Canal: ${dados.canal} - Videos: ${dados.videos.length}
     
                 <p class="temp" id="ano-Prof">
                 Professor: ${dados.professor} - Ano: ${dados.ano}
