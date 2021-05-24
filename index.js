@@ -50,7 +50,7 @@ function requer() {
     
     
     
-        <div id="groupBtn">
+        <div id="groupBtn" class="mb-2">
     
         </div>
         `
