@@ -1,124 +1,104 @@
 {
-    "titulo": "forEach Array Method | JavaScript Tutorial",
+    "titulo": "ForEach Array Method | JavaScript Tutorial",
     "canal": " Florin Pop",
     "ano": 2020,
     "professor": "Florin",
     "sinopse": "In this tutorial we're going to learn about the #forEach #JavaScript #Array Method and how we can use it to call a provided function once for each element inside the array.",
     "videos": [{
-            "titulo": "flat Array Method | JavaScript Tutorial",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=2"
+            "titulo": "forEach Array Method | JavaScript Tutorial",
+            "video": "embed?v=SXb5LN_opbA&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=1"
         },
         {
             "titulo": "map Array Method | JavaScript Tutorial",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=3"
-        },
-        {
-            "titulo": "fill Array Method | JavaScript Tutorial",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=4"
-        },
-        {
-            "titulo": "includes Array Method | JavaScript Tutorial",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=5"
-        },
-        {
-            "titulo": "indexOf and lastIndexOf Array Methods | JavaScript Tutorial",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=6"
-        },
-        {
-            "titulo": "pop Array Method | JavaScript Tutorial",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=7"
-        },
-        {
-            "titulo": "unshift Array Method | JavaScript Tutorial",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=8"
-        },
-        {
-            "titulo": "isArray Array Method | JavaScript Tutorial",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=9"
-        },
-        {
-            "titulo": "concat Array Method | JavaScript Tutorial",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=10"
-        },
-        {
-            "titulo": "push Array Method | JavaScript Tutorial",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=11"
-        },
-        {
-            "titulo": "join Array Method | JavaScript Tutorial",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=12"
-        },
-        {
-            "titulo": "from Array Method | JavaScript Tutorial",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=13"
-        },
-        {
-            "titulo": "some Array Method | JavaScript Tutorial",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=14"
-        },
-        {
-            "titulo": "splice Array Method | JavaScript Tutorial",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=15"
-        },
-        {
-            "titulo": "findIndex Array Method | JavaScript Tutorial",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=16"
+            "video": "embed?v=P4RAFdZDn3M&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=2"
         },
         {
             "titulo": "filter Array Method | JavaScript Tutorial",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=17"
-        },
-        {
-            "titulo": "every Array Method | JavaScript Tutorial",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=18"
-        },
-        {
-            "titulo": "slice Array Method | JavaScript Tutorial",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=19"
-        },
-        {
-            "titulo": "reverse Array Method | JavaScript Tutorial",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=20"
-        },
-        {
-            "titulo": "find Array Method | JavaScript Tutorial",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=21"
-        },
-        {
-            "titulo": "sort Array Method | JavaScript Tutorial",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=22"
+            "video": "embed?v=mJGv12UHqXc&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=3"
         },
         {
             "titulo": "reduce Array Method | JavaScript Tutorial",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=23"
+            "video": "embed?v=IXp06KekEjM&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=4"
         },
         {
-            "titulo": "Sum of 3s or 5s | JavaScript Coding Challenge | Easy",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=24"
+            "titulo": "slice Array Method | JavaScript Tutorial",
+            "video": "embed?v=JfZv9QNSpi4&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=5"
         },
         {
-            "titulo": "Sort Array By Length | JavaScript Coding Challenge | Easy",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=25"
+            "titulo": "splice Array Method | JavaScript Tutorial",
+            "video": "embed?v=FFas8cMHVwg&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=6"
         },
         {
-            "titulo": "Remove Duplicate Words | JavaScript Coding Challenge | Easy",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=26"
+            "titulo": "sort Array Method | JavaScript Tutorial",
+            "video": "embed?v=RsFBsBep-hA&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=7"
         },
         {
-            "titulo": "Automatic Code Runner in VSCode with Nodemon",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=27"
+            "titulo": "concat Array Method | JavaScript Tutorial",
+            "video": "embed?v=PHgeshcXtDc&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=8"
         },
         {
-            "titulo": "Removing Second Element | JavaScript Coding Challenge | Easy",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=28"
+            "titulo": "fill Array Method | JavaScript Tutorial",
+            "video": "embed?v=t6ErSbYzguw&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=9"
         },
         {
-            "titulo": "Divisible Numbers | JavaScript Coding Challenge | Easy",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=29"
+            "titulo": "includes Array Method | JavaScript Tutorial",
+            "video": "embed?v=ZHsPVhkTUDg&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=10"
         },
         {
-            "titulo": "Credit Card Mask | JavaScript Coding Challenge | Easy",
-            "video": "embed?v=SXb5LN_opbA&list=RDCMUCeU-1X402kT-JlLdAitxSMA&index=30"
+            "titulo": "join Array Method | JavaScript Tutorial",
+            "video": "embed?v=1a2OCwBD-yI&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=11"
+        },
+        {
+            "titulo": "reverse Array Method | JavaScript Tutorial",
+            "video": "embed?v=xnjYcyphOoA&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=12"
+        },
+        {
+            "titulo": "push Array Method | JavaScript Tutorial",
+            "video": "embed?v=g1hlKlovok8&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=13"
+        },
+        {
+            "titulo": "pop Array Method | JavaScript Tutorial",
+            "video": "embed?v=Pgdvj6InRKI&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=14"
+        },
+        {
+            "titulo": "unshift Array Method | JavaScript Tutorial",
+            "video": "embed?v=9hin-2yeCWY&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=15"
+        },
+        {
+            "titulo": "shift Array Method | JavaScript Tutorial",
+            "video": "embed?v=_zYb4WB1eDo&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=16"
+        },
+        {
+            "titulo": "indexOf and lastIndexOf Array Methods | JavaScript Tutorial",
+            "video": "embed?v=VoY6AkDZjZ4&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=17"
+        },
+        {
+            "titulo": "every Array Method | JavaScript Tutorial",
+            "video": "embed?v=d9WGXz-DLT8&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=18"
+        },
+        {
+            "titulo": "some Array Method | JavaScript Tutorial",
+            "video": "embed?v=0uDvZSlBOtA&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=19"
+        },
+        {
+            "titulo": "find Array Method | JavaScript Tutorial",
+            "video": "embed?v=8SkHWeDoTf0&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=20"
+        },
+        {
+            "titulo": "findIndex Array Method | JavaScript Tutorial",
+            "video": "embed?v=fwpSme-VPp0&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=21"
+        },
+        {
+            "titulo": "from Array Method | JavaScript Tutorial",
+            "video": "embed?v=qS79OIceQ7k&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=22"
+        },
+        {
+            "titulo": "isArray Array Method | JavaScript Tutorial",
+            "video": "embed?v=eQKo-_ftNbE&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=23"
+        },
+        {
+            "titulo": "flat Array Method | JavaScript Tutorial",
+            "video": "embed?v=d3TJbWvfSgw&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=24"
         }
     ]
 }
