@@ -5,136 +5,136 @@
     "professor": "Gustavo Guanabara",
     "sinopse": "Aula do Curso de Programação em Linguagem Javascript criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.",
     "videos": [{
-            "titulo": "Teaser",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=1"
-        },
-        {
             "titulo": "Curso Grátis de JavaScript Moderno",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=2"
+            "video": "embed?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=1"
         },
         {
             "titulo": "Módulo A - Conhecendo o JavaScript",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=3"
+            "video": "embed?v=uzEhd3Lugik&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=2"
         },
         {
-            "titulo": "O que o JavaScript é capaz de fazer?",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=4"
+            "titulo": "O que o JavaScript é capaz de fazer? - Curso JavaScript #01",
+            "video": "embed?v=Ptbk2af68e8&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=3"
         },
         {
-            "titulo": "JavaScript: como chegamos até aqui?",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=5"
-        },
-        {
-            "titulo": "Dando os primeiros passos",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=6"
-        },
-        {
-            "titulo": "Criando o seu primeiro script",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=7"
+            "titulo": "JavaScript: como chegamos até aqui? - Curso JavaScript #02",
+            "video": "embed?v=rUTKomc2gG8&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=4"
         },
         {
             "titulo": "Módulo B - Comandos Básicos do JavaScript",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=8"
+            "video": "embed?v=FjT97HVT5g8&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=5"
         },
         {
-            "titulo": "Variáveis e Tipos Primitivos",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=9"
+            "titulo": "Dando os primeiros passos - Curso JavaScript #03",
+            "video": "embed?v=FdePtO5JSd0&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=6"
         },
         {
-            "titulo": "Tratamento de dados",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=10"
+            "titulo": "Criando o seu primeiro script - Curso JavaScript #04",
+            "video": "embed?v=OmmJBfcMJA8&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=7"
         },
         {
-            "titulo": "Operadores (Parte1)",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=11"
+            "titulo": "Variáveis e Tipos Primitivos - Curso JavaScript #05",
+            "video": "embed?v=Vbabsye7mWo&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=8"
         },
         {
-            "titulo": "Operadores (Parte2)",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=12"
+            "titulo": "Tratamento de dados - Curso JavaScript #06",
+            "video": "embed?v=OJgu_KCCUSY&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=9"
+        },
+        {
+            "titulo": "Operadores (Parte1) - Curso JavaScript #07",
+            "video": "embed?v=hZG9ODUdxHo&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=10"
+        },
+        {
+            "titulo": "Operadores (Parte 2) - Curso JavaScript #08",
+            "video": "embed?v=BP63NhITvao&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=11"
         },
         {
             "titulo": "Módulo C - Entendendo o DOM",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=13"
+            "video": "embed?v=H80nCKs9c2k&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=12"
         },
         {
-            "titulo": "Introdução ao DOM ",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=14"
+            "titulo": "Introdução ao DOM - Curso JavaScript #09",
+            "video": "embed?v=WWZX8RWLxIk&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=13"
         },
         {
-            "titulo": "Eventos DOM ",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=15"
+            "titulo": "Eventos DOM - Curso JavaScript #10",
+            "video": "embed?v=wWnBB-mZIvY&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=14"
         },
         {
             "titulo": "Módulo D - Condições em JavaScript",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=16"
+            "video": "embed?v=uPFasdmZHJc&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=15"
         },
         {
-            "titulo": "Condições (Parte 1)",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=17"
+            "titulo": "Condições (Parte 1) - Curso JavaScript #11",
+            "video": "embed?v=cOdG4eACN2A&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=16"
         },
         {
-            "titulo": "Condições (Parte 2)",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=18"
-        },
-        {
-            "titulo": "Exercícios JavaScript (Parte 1)",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=19"
-        },
-        {
-            "titulo": "Exercícios JavaScript (Parte 2)",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=20"
-        },
-        {
-            "titulo": "Exercícios JavaScript (Parte 3)",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=21"
+            "titulo": "Condições (Parte 2) - Curso JavaScript #12",
+            "video": "embed?v=EEStcIe8rAM&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=17"
         },
         {
             "titulo": "Módulo E - Repetições em JavaScript",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=22"
+            "video": "embed?v=3emz6rpcJyA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=18"
         },
         {
-            "titulo": "Repetições (Parte 1)",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=23"
+            "titulo": "Repetições (Parte 1) - Curso JavaScript #13",
+            "video": "embed?v=5rZqYPKIwkY&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=19"
         },
         {
-            "titulo": "Repetições (Parte 2)",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=24"
-        },
-        {
-            "titulo": "Exercícios JavaScript (Parte 4)",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=25"
-        },
-        {
-            "titulo": "Exercícios JavaScript (Parte 5)",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=26"
-        },
-        {
-            "titulo": "Exercícios JavaScript (Parte 6)",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=27"
+            "titulo": "Repetições (Parte 2) - Curso JavaScript #14",
+            "video": "embed?v=eX-lkN_Zahc&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=20"
         },
         {
             "titulo": "Módulo F - Avançando os estudos em JavaScript",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=28"
+            "video": "embed?v=5m4UhZd-Les&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=21"
         },
         {
-            "titulo": "Variáveis Compostas",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=29"
+            "titulo": "Variáveis Compostas - Curso JavaScript #15",
+            "video": "embed?v=XdkW62tkAgU&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=22"
         },
         {
-            "titulo": "Funções",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=30"
+            "titulo": "Funções - Curso JavaScript #16",
+            "video": "embed?v=mc3TKp2XzhI&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=23"
         },
         {
-            "titulo": "Exercícios JavaScript (Parte 7)",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=31"
+            "titulo": "Próximos Passos - Curso JavaScript #17",
+            "video": "embed?v=roP93FA-NgU&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=24"
         },
         {
-            "titulo": "Exercícios JavaScript (Parte 7)",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=32"
+            "titulo": "Exercícios JavaScript (Parte 1) - Curso JavaScript",
+            "video": "embed?v=b2K7eo5Jdj8&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=25"
         },
         {
-            "titulo": "Próximos Passos",
-            "video": "embed?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=33"
+            "titulo": "Exercícios JavaScript (Parte 2) - Curso JavaScript",
+            "video": "embed?v=UXSWgnbSHxs&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=26"
+        },
+        {
+            "titulo": "Exercícios JavaScript (Parte 3) - Curso JavaScript",
+            "video": "embed?v=f5es-PpaUI8&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=27"
+        },
+        {
+            "titulo": "Exercícios JavaScript (Parte 4) - Curso JavaScript",
+            "video": "embed?v=6tyHypeY4-8&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=28"
+        },
+        {
+            "titulo": "Exercícios JavaScript (Parte 5) - Curso JavaScript",
+            "video": "embed?v=oMNbc_LFz8w&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=29"
+        },
+        {
+            "titulo": "Exercícios JavaScript (Parte 6) - Curso JavaScript",
+            "video": "embed?v=mfHAQ-4Rspw&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=30"
+        },
+        {
+            "titulo": "Exercícios JavaScript (Parte 7) - Curso JavaScript",
+            "video": "embed?v=vEOEZ03ZyiE&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=31"
+        },
+        {
+            "titulo": "Exercícios JavaScript (Parte 8) - Curso JavaScript",
+            "video": "embed?v=slLoLLCd-k0&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=32"
+        },
+        {
+            "titulo": "Ás vezes você só se dá mal",
+            "video": "embed?v=8sl8Xo3bWbA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=33"
         }
     ]
 }
