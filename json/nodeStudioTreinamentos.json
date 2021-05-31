@@ -5,128 +5,128 @@
     "professor": "Rodrigo Oliveira",
     "sinopse": "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.",
     "videos": [{
-            "titulo": "Introdução ao Javascript",
+            "titulo": "Curso de Javascript - #01 Introdução ao Javascript",
             "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=1"
         },
         {
-            "titulo": "Javascript ou Ecmascript",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=2"
+            "titulo": "Curso de Javascript - #02 Javascript ou Ecmascript?",
+            "video": "embed?v=sciR02hch-I&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=2"
         },
         {
-            "titulo": "VS Code e Olá mundo",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=3"
+            "titulo": "Curso de Javascript - #3 VS Code e Olá mundo",
+            "video": "embed?v=08X9gf3mdKY&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=3"
         },
         {
-            "titulo": "Console.log",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=4"
+            "titulo": "Curso de Javascript - #4 Console.log",
+            "video": "embed?v=nQ1XX0GrBEs&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=4"
         },
         {
-            "titulo": "Sobre o BOM",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=5"
+            "titulo": "Curso de Javascript - #5 Sobre o BOM",
+            "video": "embed?v=nJp6IAUcU9Q&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=5"
         },
         {
-            "titulo": "Sobre o BOM (Parte 02)",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=6"
+            "titulo": "Curso de Javascript - #6 Sobre o BOM (Parte 02)",
+            "video": "embed?v=nEDHYC6scTg&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=6"
         },
         {
-            "titulo": "getElementById & getElementsByClassName",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=7"
+            "titulo": "Curso de Javascript - #7 DOM | getElementById & getElementsByClassName",
+            "video": "embed?v=73d5dZIT78Q&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=7"
         },
         {
-            "titulo": "getElementsByTagName e querySelector",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=8"
+            "titulo": "Curso de Javascript - #8 DOM | getElementsByTagName e querySelector",
+            "video": "embed?v=5FPCIDliwcw&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=8"
         },
         {
-            "titulo": "querySelectorAll",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=9"
+            "titulo": "Curso de Javascript - #9 DOM | querySelectorAll",
+            "video": "embed?v=IB92NTKTtWM&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=9"
         },
         {
-            "titulo": "DOM | innerHTML, Style e Atributos",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=10"
+            "titulo": "Curso de Javascript - #10 DOM | innerHTML, Style e Atributos",
+            "video": "embed?v=6vg86eq5YME&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=10"
         },
         {
-            "titulo": "createElement",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=11"
+            "titulo": "Curso de Javascript - #11 DOM | createElement",
+            "video": "embed?v=rL17o4iIMxg&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=11"
         },
         {
-            "titulo": "appendChild e removeChild",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=12"
+            "titulo": "Curso de Javascript - #12 DOM | appendChild e removeChild",
+            "video": "embed?v=17sdxBRTfUQ&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=12"
         },
         {
-            "titulo": "childNodes",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=13"
+            "titulo": "Curso de Javascript - #13 DOM | childNodes",
+            "video": "embed?v=oRg8z-3fv2w&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=13"
         },
         {
-            "titulo": "nodeName, nodeType, nodeValue",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=14"
+            "titulo": "Curso de Javascript - #14 DOM | nodeName, nodeType, nodeValue",
+            "video": "embed?v=6sAre3Ib1Rg&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=14"
         },
         {
-            "titulo": "DOM | parentNode",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=15"
+            "titulo": "Curso de Javascript - #15 DOM | parentNode",
+            "video": "embed?v=abvC6l_PE24&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=15"
         },
         {
-            "titulo": "getAttribute, setAttribute e removeAttribute",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=16"
+            "titulo": "Curso de Javascript - #16 DOM | getAttribute, setAttribute e removeAttribute",
+            "video": "embed?v=UubFxrc0-kw&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=16"
         },
         {
-            "titulo": "createTextNode e textContent",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=17"
+            "titulo": "Curso de Javascript - #17 DOM | createTextNode e textContent",
+            "video": "embed?v=vj9kPtNnMc4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=17"
         },
         {
-            "titulo": "DOM | children e insertBefore",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=18"
+            "titulo": "Curso de Javascript - #18 DOM | children e insertBefore",
+            "video": "embed?v=Qx8Mo5iPzZk&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=18"
         },
         {
-            "titulo": "DOM | replaceChild",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=19"
+            "titulo": "Curso de Javascript - #19 DOM | replaceChild",
+            "video": "embed?v=LpEGylDi6kY&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=19"
         },
         {
-            "titulo": "Tipos de dados",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=20"
+            "titulo": "Curso de Javascript - #20 Tipos de dados",
+            "video": "embed?v=upTl-6W9PcU&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=20"
         },
         {
-            "titulo": "Variáveis (var, let, const e escopo)",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=21"
+            "titulo": "Curso de Javascript - #21 Variáveis (var, let, const e escopo)",
+            "video": "embed?v=GmG5FkF2Hlc&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=21"
         },
         {
-            "titulo": "Arrays",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=22"
+            "titulo": "Curso de Javascript - #22 Arrays",
+            "video": "embed?v=oTsNJkHAmPc&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=22"
         },
         {
-            "titulo": "Objeto",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=23"
+            "titulo": "Curso de Javascript - #23 Objetos",
+            "video": "embed?v=kqE3sp_7peQ&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=23"
         },
         {
-            "titulo": "Operadores Aritméticos",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=24"
+            "titulo": "Curso de Javascript - #24 Operadores Aritméticos",
+            "video": "embed?v=66OJtuVoYbs&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=24"
         },
         {
-            "titulo": "Operadores de Atribuição",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=25"
+            "titulo": "Curso de Javascript - #25 Operadores de Atribuição",
+            "video": "embed?v=2_evEg3ZppY&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=25"
         },
         {
-            "titulo": "Operadores Lógicos, Comparação e Ternário",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=26"
+            "titulo": "Curso de Javascript - #26 Operadores Lógicos, Comparação e Ternário",
+            "video": "embed?v=HJaUh5JiIOc&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=26"
         },
         {
-            "titulo": "Condicionais (If, Else, ElseIF, Switch)",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=27"
+            "titulo": "Curso de Javascript - #27 Condicionais (If, Else, ElseIF, Switch)",
+            "video": "embed?v=T8lD3lh-u4A&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=27"
         },
         {
-            "titulo": "8 Loops (For e While)",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=28"
+            "titulo": "Curso de Javascript - #28 Loops (For e While)",
+            "video": "embed?v=0Jr3kmCILIg&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=28"
         },
         {
-            "titulo": "Loops (For In e For Of)",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=29"
+            "titulo": "Curso de Javascript - #29 Loops (For In e For Of)",
+            "video": "embed?v=wIEAIdsbq3A&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=29"
         },
         {
-            "titulo": "Funções",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=30"
+            "titulo": "Curso de Javascript - #30 Funções",
+            "video": "embed?v=DIUDsNTVYjE&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=30"
         },
         {
-            "titulo": "alert, prompt e confirm",
-            "video": "embed?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=31"
+            "titulo": "Curso de Javascript - #31 alert, prompt e confirm",
+            "video": "embed?v=Nau-8c_Gzs0&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR&index=31"
         }
     ]
 }
