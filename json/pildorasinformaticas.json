@@ -6,315 +6,315 @@
     "sinopse": "Comenzamos un nuevo curso de programación en JavaScript. Espero que os guste.",
     "videos": [{
             "titulo": "Curso JavaScript desde 0. Presentación. Vídeo 1",
-            "video": "https://www.youtube.com/watch?v=m2nscBtQEIs&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=1"
+            "video": "embed?v=m2nscBtQEIs&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=1"
         },
         {
             "titulo": "Curso JavaScript desde 0. Introducción. Vídeo 2",
-            "video": "https://www.youtube.com/watch?v=QrVO_dvjU-M&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=2"
+            "video": "embed?v=QrVO_dvjU-M&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=2"
         },
         {
             "titulo": "Curso JavaScript desde 0. Sintaxis Básica I. Ubicación del código. Vídeo 3",
-            "video": "https://www.youtube.com/watch?v=zSYj95x5WrU&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=3"
+            "video": "embed?v=zSYj95x5WrU&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=3"
         },
         {
             "titulo": "Curso JavaScript desde 0. Sintaxis Básica II. Estructuras Básicas. Vídeo 4",
-            "video": "https://www.youtube.com/watch?v=SVmKhuAWvY4&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=4"
+            "video": "embed?v=SVmKhuAWvY4&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=4"
         },
         {
             "titulo": "Curso JavaScript desde 0. Sintaxis Básica III. Operadores Básicos. Vídeo 5",
-            "video": "https://www.youtube.com/watch?v=eidffYi0kUk&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=5"
+            "video": "embed?v=eidffYi0kUk&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=5"
         },
         {
             "titulo": "Curso JavaScript desde 0. Sintaxis Básica IV. Operadores y prompt. Vídeo 6",
-            "video": "https://www.youtube.com/watch?v=f719B0LDpiE&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=6"
+            "video": "embed?v=f719B0LDpiE&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=6"
         },
         {
             "titulo": "Curso JavaScript desde 0. Sintaxis Básica V Arrays, Matrices, Arreglos. Vídeo 7",
-            "video": "https://www.youtube.com/watch?v=hTeFMke6F6Q&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=7"
+            "video": "embed?v=hTeFMke6F6Q&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=7"
         },
         {
             "titulo": "Curso JavaScript desde 0. Sintaxis Básica V. Arrays, Matrices, Arreglos II. Vídeo 8",
-            "video": "https://www.youtube.com/watch?v=yn-o0rxXW0o&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=8"
+            "video": "embed?v=yn-o0rxXW0o&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=8"
         },
         {
             "titulo": "Curso JavaScript desde 0. POO I. Vídeo 9",
-            "video": "https://www.youtube.com/watch?v=6wB-0QSkk3Y&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=9"
+            "video": "embed?v=6wB-0QSkk3Y&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=9"
         },
         {
             "titulo": "Curso JavaScript desde 0. POO II. Vídeo 10",
-            "video": "https://www.youtube.com/watch?v=CfKVU0i7w_w&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=10"
+            "video": "embed?v=CfKVU0i7w_w&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=10"
         },
         {
             "titulo": "Curso JavaScript desde 0. Control flujo Condicional If I. Vídeo 11",
-            "video": "https://www.youtube.com/watch?v=jI2pp0ILs40&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=11"
+            "video": "embed?v=jI2pp0ILs40&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=11"
         },
         {
             "titulo": "Curso JavaScript desde 0. Control flujo. Condicional If II. Vídeo 12",
-            "video": "https://www.youtube.com/watch?v=nal3um27Cfk&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=12"
+            "video": "embed?v=nal3um27Cfk&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=12"
         },
         {
             "titulo": "Curso JavaScript desde 0. Control flujo. Condicional If III. Vídeo 13",
-            "video": "https://www.youtube.com/watch?v=XP7iqGXFdoQ&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=13"
+            "video": "embed?v=XP7iqGXFdoQ&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=13"
         },
         {
             "titulo": "Curso JavaScript desde 0. Control flujo Condicional If IV. Vídeo 14",
-            "video": "https://www.youtube.com/watch?v=h31VfupJ9Ds&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=14"
+            "video": "embed?v=h31VfupJ9Ds&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=14"
         },
         {
             "titulo": "Curso JavaScript desde 0. Control flujo Bucle While I. Vídeo 15",
-            "video": "https://www.youtube.com/watch?v=-s1c-4mbNSQ&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=15"
+            "video": "embed?v=-s1c-4mbNSQ&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=15"
         },
         {
             "titulo": "Curso JavaScript desde 0. Control flujo Bucle While II. Vídeo 16",
-            "video": "https://www.youtube.com/watch?v=Sj6m_3cJA2U&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=16"
+            "video": "embed?v=Sj6m_3cJA2U&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=16"
         },
         {
             "titulo": "Curso JavaScript desde 0. Control flujo. Bucle Do While I. Vídeo 17",
-            "video": "https://www.youtube.com/watch?v=AQn74J9lPyA&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=17"
+            "video": "embed?v=AQn74J9lPyA&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=17"
         },
         {
             "titulo": "Curso JavaScript desde 0. Control flujo Bucle Do While II. Vídeo 18",
-            "video": "https://www.youtube.com/watch?v=8u1fdOYJ_VQ&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=18"
+            "video": "embed?v=8u1fdOYJ_VQ&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=18"
         },
         {
             "titulo": "Curso JavaScript desde 0. Control flujo Bucle For I. Vídeo 19",
-            "video": "https://www.youtube.com/watch?v=6rVh5uax0EA&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=19"
+            "video": "embed?v=6rVh5uax0EA&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=19"
         },
         {
             "titulo": "Curso JavaScript desde 0. Control flujo Bucle For II. Vídeo 20",
-            "video": "https://www.youtube.com/watch?v=_hIrAJ_ogpI&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=20"
+            "video": "embed?v=_hIrAJ_ogpI&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=20"
         },
         {
             "titulo": "Curso JavaScript desde 0. Funciones I. Vídeo 21",
-            "video": "https://www.youtube.com/watch?v=uUfYLGVLHfI&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=21"
+            "video": "embed?v=uUfYLGVLHfI&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=21"
         },
         {
             "titulo": "Curso JavaScript desde 0 Funciones II. Paso de parámetros. Vídeo 22",
-            "video": "https://www.youtube.com/watch?v=n7IKmbVKgdU&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=22"
+            "video": "embed?v=n7IKmbVKgdU&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=22"
         },
         {
             "titulo": "Curso JavaScript desde 0 Funciones III. Calculadora arcaica. Vídeo 23",
-            "video": "https://www.youtube.com/watch?v=FhIDjFUCuhs&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=23"
+            "video": "embed?v=FhIDjFUCuhs&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=23"
         },
         {
             "titulo": "Curso JavaScript desde 0. Funciones y eventos. Introducción a eventos Vídeo 24",
-            "video": "https://www.youtube.com/watch?v=yfWcTBufkcM&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=24"
+            "video": "embed?v=yfWcTBufkcM&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=24"
         },
         {
             "titulo": "Curso JavaScript desde 0 Funciones. Práctica guiada I. Vídeo 25",
-            "video": "https://www.youtube.com/watch?v=mQajJT80_c4&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=25"
+            "video": "embed?v=mQajJT80_c4&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=25"
         },
         {
             "titulo": "Curso JavaScript desde 0 Funciones. Práctica guiada II. Vídeo 26",
-            "video": "https://www.youtube.com/watch?v=QdzPfkmXX2E&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=26"
+            "video": "embed?v=QdzPfkmXX2E&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=26"
         },
         {
             "titulo": "Curso JavaScript desde 0. Funciones Práctica guiada III. Vídeo 27",
-            "video": "https://www.youtube.com/watch?v=gr1PPIrCtc8&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=27"
+            "video": "embed?v=gr1PPIrCtc8&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=27"
         },
         {
             "titulo": "Curso JavaScript desde 0. Funciones Práctica guiada IV. Vídeo 28",
-            "video": "https://www.youtube.com/watch?v=dY8srH7RDKE&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=28"
+            "video": "embed?v=dY8srH7RDKE&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=28"
         },
         {
             "titulo": "Curso JavaScript desde 0. JQuery I. Vídeo 29",
-            "video": "https://www.youtube.com/watch?v=VEJZFbjOICs&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=29"
+            "video": "embed?v=VEJZFbjOICs&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=29"
         },
         {
             "titulo": "Curso JavaScript desde 0. JQuery II. Vídeo 30",
-            "video": "https://www.youtube.com/watch?v=J8_LGy1gGqo&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=30"
+            "video": "embed?v=J8_LGy1gGqo&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=30"
         },
         {
             "titulo": "Curso JavaScript desde 0. JQuery III. Vídeo 31",
-            "video": "https://www.youtube.com/watch?v=vovHwdwSUCY&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=31"
+            "video": "embed?v=vovHwdwSUCY&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=31"
         },
         {
             "titulo": "Curso JavaScript desde 0 JQuery IV. Agregando contenido. Vídeo 32",
-            "video": "https://www.youtube.com/watch?v=8ZMPJSf5_GE&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=32"
+            "video": "embed?v=8ZMPJSf5_GE&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=32"
         },
         {
             "titulo": "Curso JavaScript desde 0 JQuery V. Eliminando y reemplazando contenido. Vídeo 33",
-            "video": "https://www.youtube.com/watch?v=2TqlvZkH1lE&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=33"
+            "video": "embed?v=2TqlvZkH1lE&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=33"
         },
         {
             "titulo": "Curso JavaScript desde 0 JQuery VI. Eliminando y reemplazando contenido II. Vídeo 34",
-            "video": "https://www.youtube.com/watch?v=WLT1hAM9_Rc&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=34"
+            "video": "embed?v=WLT1hAM9_Rc&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=34"
         },
         {
             "titulo": "Curso JavaScript desde 0. JQuery VII. Cambiando atributos CSS I. Vídeo 35",
-            "video": "https://www.youtube.com/watch?v=oivLtfCSKRc&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=35"
+            "video": "embed?v=oivLtfCSKRc&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=35"
         },
         {
             "titulo": "Curso JavaScript desde 0. JQuery VIII. Cambiando atributos CSS II. Vídeo 36",
-            "video": "https://www.youtube.com/watch?v=TbFDJqJfPh0&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=36"
+            "video": "embed?v=TbFDJqJfPh0&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=36"
         },
         {
             "titulo": "Curso JavaScript desde 0. JQuery IX. Leyendo y cambiando atributos CSS I Vídeo 37",
-            "video": "https://www.youtube.com/watch?v=EXd8wYFUJ0g&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=37"
+            "video": "embed?v=EXd8wYFUJ0g&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=37"
         },
         {
             "titulo": "Curso JavaScript desde 0. JQuery X. Leyendo y cambiando atributos CSS II Vídeo 38",
-            "video": "https://www.youtube.com/watch?v=ObTTy9numho&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=38"
+            "video": "embed?v=ObTTy9numho&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=38"
         },
         {
             "titulo": "Curso JavaScript desde 0. JQuery XI Leyendo y cambiando atributos HTML I. Vídeo 39",
-            "video": "https://www.youtube.com/watch?v=mxzdoJHh7Fk&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=39"
+            "video": "embed?v=mxzdoJHh7Fk&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=39"
         },
         {
             "titulo": "Curso JavaScript desde 0. JQuery XII Leyendo y cambiando atributos HTML II. Vídeo 40",
-            "video": "https://www.youtube.com/watch?v=gPmTCk7fRkQ&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=40"
+            "video": "embed?v=gPmTCk7fRkQ&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=40"
         },
         {
             "titulo": "Curso JavaScript desde 0 JQuery XIII. Función each y funciones anónimas. Vídeo 41",
-            "video": "https://www.youtube.com/watch?v=bTdyCMhUVfc&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=41"
+            "video": "embed?v=bTdyCMhUVfc&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=41"
         },
         {
             "titulo": "Curso JavaScript desde 0. JQuery XIV Eventos con JQuery I. Vídeo 42",
-            "video": "https://www.youtube.com/watch?v=B4cBilORGWk&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=42"
+            "video": "embed?v=B4cBilORGWk&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=42"
         },
         {
             "titulo": "Curso JavaScript desde 0 JQuery XV. Eventos con JQuery II. Vídeo 43",
-            "video": "https://www.youtube.com/watch?v=bBJhs6On7Gk&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=43"
+            "video": "embed?v=bBJhs6On7Gk&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=43"
         },
         {
             "titulo": "Curso JavaScript desde 0 JQuery XVI. Eventos con JQuery III. Vídeo 44",
-            "video": "https://www.youtube.com/watch?v=3Os5WvtvEzE&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=44"
+            "video": "embed?v=3Os5WvtvEzE&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=44"
         },
         {
             "titulo": "Curso JavaScript desde 0. JQuery XVII Eventos con JQuery IV. Función next. Vídeo 45",
-            "video": "https://www.youtube.com/watch?v=UpCbfxOfm3Q&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=45"
+            "video": "embed?v=UpCbfxOfm3Q&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=45"
         },
         {
             "titulo": "Curso JavaScript desde 0. JQuery XVIII. Eventos con JQuery V. Función bind. Vídeo 46",
-            "video": "https://www.youtube.com/watch?v=xwM89X_NWqE&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=46"
+            "video": "embed?v=xwM89X_NWqE&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=46"
         },
         {
             "titulo": "Curso JavaScript desde 0. Efectos y animaciones I. Vídeo 47",
-            "video": "https://www.youtube.com/watch?v=6BkKiiuTxo8&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=47"
+            "video": "embed?v=6BkKiiuTxo8&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=47"
         },
         {
             "titulo": "Curso JavaScript desde 0. JQuery XX. Efectos y animaciones II. Vídeo 48",
-            "video": "https://www.youtube.com/watch?v=YgXFM-617SU&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=48"
+            "video": "embed?v=YgXFM-617SU&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=48"
         },
         {
             "titulo": "Curso JavaScript desde 0. JQuery XXI. Animate y funciones anidadas. Vídeo 49",
-            "video": "https://www.youtube.com/watch?v=wQDF6kLleUI&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=49"
+            "video": "embed?v=wQDF6kLleUI&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=49"
         },
         {
             "titulo": "Curso JavaScript desde 0. JQuery XXII Plugins JQuery. Vídeo 50",
-            "video": "https://www.youtube.com/watch?v=EVXFK6QYCkg&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=50"
+            "video": "embed?v=EVXFK6QYCkg&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=50"
         },
         {
             "titulo": "Curso JavaScript desde 0. JQuery XXIII. Preloader imágenes rollover. Vídeo 51",
-            "video": "https://www.youtube.com/watch?v=z8J5_WVBtYQ&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=51"
+            "video": "embed?v=z8J5_WVBtYQ&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=51"
         },
         {
             "titulo": "Curso JavaScript desde 0. JQuery XXIV. Imágenes con FancyBox. Vídeo 52",
-            "video": "https://www.youtube.com/watch?v=nZTM9ZLHe5E&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=52"
+            "video": "embed?v=nZTM9ZLHe5E&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=52"
         },
         {
             "titulo": "Curso JavaScript desde 0. Ventanas emergentes e Iframes I. Vídeo 53",
-            "video": "https://www.youtube.com/watch?v=Yp0R0Xj1Woo&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=53"
+            "video": "embed?v=Yp0R0Xj1Woo&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=53"
         },
         {
             "titulo": "Curso JavaScript desde 0. Ventanas emergentes e Iframes II. Vídeo 54",
-            "video": "https://www.youtube.com/watch?v=XP7Gc9kXmVM&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=54"
+            "video": "embed?v=XP7Gc9kXmVM&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=54"
         },
         {
             "titulo": "Curso JavaScript desde 0. Ventanas emergentes e Iframes III. Vídeo 55",
-            "video": "https://www.youtube.com/watch?v=XlmOiACfzL8&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=55"
+            "video": "embed?v=XlmOiACfzL8&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=55"
         },
         {
             "titulo": "Curso JavaScript desde 0. Menús animados. Vídeo 56",
-            "video": "https://www.youtube.com/watch?v=0JwWCJpP890&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=56"
+            "video": "embed?v=0JwWCJpP890&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=56"
         },
         {
             "titulo": "Curso JavaScript desde 0. Formularios I. Vídeo 57",
-            "video": "https://www.youtube.com/watch?v=LyaU7aktI7s&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=57"
+            "video": "embed?v=LyaU7aktI7s&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=57"
         },
         {
             "titulo": "Curso JavaScript desde 0. Formularios II Eventos I. Vídeo 58",
-            "video": "https://www.youtube.com/watch?v=nMHVyGxcA6U&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=58"
+            "video": "embed?v=nMHVyGxcA6U&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=58"
         },
         {
             "titulo": "Curso JavaScript desde 0. Formularios III Eventos II. Vídeo 59",
-            "video": "https://www.youtube.com/watch?v=zTa6-MxNo8M&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=59"
+            "video": "embed?v=zTa6-MxNo8M&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=59"
         },
         {
             "titulo": "Curso JavaScript desde 0. Formularios IV Eventos III. Vídeo 60",
-            "video": "https://www.youtube.com/watch?v=6l40OQk2brg&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=60"
+            "video": "embed?v=6l40OQk2brg&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=60"
         },
         {
             "titulo": "Curso JavaScript desde 0. Formularios V Mostrando Ocultando elementos. Vídeo 61",
-            "video": "https://www.youtube.com/watch?v=HTiXrd4fbgo&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=61"
+            "video": "embed?v=HTiXrd4fbgo&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=61"
         },
         {
             "titulo": "Curso JavaScript desde 0 Formularios VI. Mostrando Ocultando elementos II. Vídeo 62",
-            "video": "https://www.youtube.com/watch?v=PJAg8537jCA&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=62"
+            "video": "embed?v=PJAg8537jCA&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=62"
         },
         {
             "titulo": "Curso JavaScript desde 0. Formularios VII Validación I. Vídeo 63",
-            "video": "https://www.youtube.com/watch?v=g2NFST7GzTw&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=63"
+            "video": "embed?v=g2NFST7GzTw&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=63"
         },
         {
             "titulo": "Curso JavaScript desde 0. Formularios VIII Validación II. Vídeo 64",
-            "video": "https://www.youtube.com/watch?v=rOp9loIPhCs&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=64"
+            "video": "embed?v=rOp9loIPhCs&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=64"
         },
         {
             "titulo": "Curso JavaScript desde 0. Formularios IX Validación III. Vídeo 65",
-            "video": "https://www.youtube.com/watch?v=zZA8xMnd47g&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=65"
+            "video": "embed?v=zZA8xMnd47g&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=65"
         },
         {
             "titulo": "Curso JavaScript desde 0. Formularios X Validación IV. Vídeo 66",
-            "video": "https://www.youtube.com/watch?v=On_Eptv3Wc4&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=66"
+            "video": "embed?v=On_Eptv3Wc4&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=66"
         },
         {
             "titulo": "Curso JavaScript desde 0. Formularios XI Validación V. Vídeo 67",
-            "video": "https://www.youtube.com/watch?v=QE_jUFpJXdA&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=67"
+            "video": "embed?v=QE_jUFpJXdA&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=67"
         },
         {
             "titulo": "Curso JavaScript desde 0. Ajax I. Vídeo 68",
-            "video": "https://www.youtube.com/watch?v=7w5PpdHKndc&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=68"
+            "video": "embed?v=7w5PpdHKndc&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=68"
         },
         {
             "titulo": "Curso JavaScript desde 0. Ajax II. Vídeo 69",
-            "video": "https://www.youtube.com/watch?v=34Vb5ggTpXc&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=69"
+            "video": "embed?v=34Vb5ggTpXc&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=69"
         },
         {
             "titulo": "Curso JavaScript desde 0. Ajax III. Get() y Post(). Vídeo 70",
-            "video": "https://www.youtube.com/watch?v=E7k6PjC71_Y&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=70"
+            "video": "embed?v=E7k6PjC71_Y&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=70"
         },
         {
             "titulo": "Curso JavaScript desde 0. Ajax IV. Vídeo 71",
-            "video": "https://www.youtube.com/watch?v=zTF35_JE6Dw&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=71"
+            "video": "embed?v=zTF35_JE6Dw&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=71"
         },
         {
             "titulo": "Curso JavaScript desde 0. Ajax V. Vídeo 72",
-            "video": "https://www.youtube.com/watch?v=e2FCiPrmz_4&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=72"
+            "video": "embed?v=e2FCiPrmz_4&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=72"
         },
         {
             "titulo": "Curso JavaScript desde 0. Ajax VI. Objetos JSON I. Vídeo 73",
-            "video": "https://www.youtube.com/watch?v=pyvyBx4PAZU&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=73"
+            "video": "embed?v=pyvyBx4PAZU&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=73"
         },
         {
             "titulo": "Curso JavaScript desde 0. Ajax VII. Objetos JSON II. Vídeo 74",
-            "video": "https://www.youtube.com/watch?v=KvPRyAQdOLs&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=74"
+            "video": "embed?v=KvPRyAQdOLs&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=74"
         },
         {
             "titulo": "Curso JavaScript desde 0 Ajax VIII. Trabajando con Google Maps. Vídeo 75",
-            "video": "https://www.youtube.com/watch?v=lKBfH7qP10Y&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=75"
+            "video": "embed?v=lKBfH7qP10Y&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=75"
         },
         {
             "titulo": "Curso JavaScript desde 0. Errores y Depuración I. Vídeo 76",
-            "video": "https://www.youtube.com/watch?v=oj_qfvd1t7Y&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=76"
+            "video": "embed?v=oj_qfvd1t7Y&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=76"
         },
         {
             "titulo": "Curso JavaScript desde 0. Errores y Depuración II. Vídeo 77",
-            "video": "https://www.youtube.com/watch?v=kMUI5gWfwFE&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=77"
+            "video": "embed?v=kMUI5gWfwFE&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=77"
         },
         {
             "titulo": "Curso JavaScript desde 0. FINAL CURSO. Vídeo 78",
-            "video": "https://www.youtube.com/watch?v=MTIfpzJPei8&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=78"
+            "video": "embed?v=MTIfpzJPei8&list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID&index=78"
         }
     ]
 }
