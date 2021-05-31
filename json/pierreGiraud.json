@@ -6,263 +6,263 @@
     "sinopse": "Bienvenue dans ce nouveau cours traitant du langage de programmation JavaScript.",
     "videos": [{
             "titulo": "Présentation du cours JavaScript",
-            "video": "https://www.youtube.com/watch?v=VZLflMqC6dI&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=1"
+            "video": "embed?v=VZLflMqC6dI&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=1"
         },
         {
             "titulo": "Introduction au JavaScript",
-            "video": "https://www.youtube.com/watch?v=lDO14MA0C_o&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=2"
+            "video": "embed?v=lDO14MA0C_o&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=2"
         },
         {
             "titulo": "Environnement de travail",
-            "video": "https://www.youtube.com/watch?v=dNIJUmjZeMI&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=3"
+            "video": "embed?v=dNIJUmjZeMI&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=3"
         },
         {
             "titulo": "Où écrire le code JavaScript",
-            "video": "https://www.youtube.com/watch?v=gpdierJ5-kw&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=4"
+            "video": "embed?v=gpdierJ5-kw&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=4"
         },
         {
             "titulo": "Syntaxe, indentation et commentaires",
-            "video": "https://www.youtube.com/watch?v=AtUwagcoDL8&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=5"
+            "video": "embed?v=AtUwagcoDL8&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=5"
         },
         {
             "titulo": "Présentation des variables en JavaScript",
-            "video": "https://www.youtube.com/watch?v=9jGQLBaw32Q&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=6"
+            "video": "embed?v=9jGQLBaw32Q&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=6"
         },
         {
             "titulo": "Les types de valeurs des variables JavaScript",
-            "video": "https://www.youtube.com/watch?v=N-B-EdmpcJw&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=7"
+            "video": "embed?v=N-B-EdmpcJw&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=7"
         },
         {
             "titulo": "Opérations entre variables en JavaScript",
-            "video": "https://www.youtube.com/watch?v=lIkXktOFJIM&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=8"
+            "video": "embed?v=lIkXktOFJIM&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=8"
         },
         {
             "titulo": "La concaténation en JavaScript",
-            "video": "https://www.youtube.com/watch?v=WWNqWniNkWo&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=9"
+            "video": "embed?v=WWNqWniNkWo&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=9"
         },
         {
             "titulo": "Introduction aux conditions en JavaScript",
-            "video": "https://www.youtube.com/watch?v=MpGjBoDDBuY&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=10"
+            "video": "embed?v=MpGjBoDDBuY&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=10"
         },
         {
             "titulo": "Les conditions if, if...else et if...else if...else",
-            "video": "https://www.youtube.com/watch?v=7eGSC5-mdIU&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=11"
+            "video": "embed?v=7eGSC5-mdIU&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=11"
         },
         {
             "titulo": "Les opérateurs logiques",
-            "video": "https://www.youtube.com/watch?v=0u74Ki57LgY&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=12"
+            "video": "embed?v=0u74Ki57LgY&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=12"
         },
         {
             "titulo": "Simplification des conditions JavaScript",
-            "video": "https://www.youtube.com/watch?v=DdEtCy76oH4&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=13"
+            "video": "embed?v=DdEtCy76oH4&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=13"
         },
         {
             "titulo": "Structures ternaires en JavaScript",
-            "video": "https://www.youtube.com/watch?v=SCPhXNMt79I&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=14"
+            "video": "embed?v=SCPhXNMt79I&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=14"
         },
         {
             "titulo": "Le switch",
-            "video": "https://www.youtube.com/watch?v=pkqoAfJkLao&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=15"
+            "video": "embed?v=pkqoAfJkLao&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=15"
         },
         {
             "titulo": "Les boucles en JavaScript",
-            "video": "https://www.youtube.com/watch?v=z5PO4uGT2Gg&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=16"
+            "video": "embed?v=z5PO4uGT2Gg&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=16"
         },
         {
             "titulo": "Introduction aux fonctions en JavaScript",
-            "video": "https://www.youtube.com/watch?v=JqzEfz1gsVo&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=17"
+            "video": "embed?v=JqzEfz1gsVo&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=17"
         },
         {
             "titulo": "Découverte et définition des objets en JavaScript",
-            "video": "https://www.youtube.com/watch?v=9KAZQQoGhYE&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=18"
+            "video": "embed?v=9KAZQQoGhYE&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=18"
         },
         {
             "titulo": "Valeurs primitives et objets natifs",
-            "video": "https://www.youtube.com/watch?v=w6dXNYW7BTY&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=19"
+            "video": "embed?v=w6dXNYW7BTY&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=19"
         },
         {
             "titulo": "Créer des objets en JavaScript",
-            "video": "https://www.youtube.com/watch?v=AgKYCm6df6o&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=20"
+            "video": "embed?v=AgKYCm6df6o&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=20"
         },
         {
             "titulo": "Les méthodes de l'objet String",
-            "video": "https://www.youtube.com/watch?v=ep4-dpA-pUw&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=21"
+            "video": "embed?v=ep4-dpA-pUw&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=21"
         },
         {
             "titulo": "L'objet Number, propriétés et méthodes",
-            "video": "https://www.youtube.com/watch?v=DqkPxkpj3gU&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=22"
+            "video": "embed?v=DqkPxkpj3gU&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=22"
         },
         {
             "titulo": "Présentation de l'objet Array et des tableaux",
-            "video": "https://www.youtube.com/watch?v=U_yJypsGMeo&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=23"
+            "video": "embed?v=U_yJypsGMeo&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=23"
         },
         {
             "titulo": "Les méthodes de l'objet Array",
-            "video": "https://www.youtube.com/watch?v=kNWJsWxZXis&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=24"
+            "video": "embed?v=kNWJsWxZXis&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=24"
         },
         {
             "titulo": "Présentation de l'objet Date",
-            "video": "https://www.youtube.com/watch?v=l7UsNg6W1rk&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=25"
+            "video": "embed?v=l7UsNg6W1rk&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=25"
         },
         {
             "titulo": "Les méthodes de l'objet Date",
-            "video": "https://www.youtube.com/watch?v=RReVk5ESkkQ&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=26"
+            "video": "embed?v=RReVk5ESkkQ&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=26"
         },
         {
             "titulo": "L'objet Math et ses méthodes",
-            "video": "https://www.youtube.com/watch?v=GgSDt28k-ak&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=27"
+            "video": "embed?v=GgSDt28k-ak&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=27"
         },
         {
             "titulo": "La portée en JavaScript",
-            "video": "https://www.youtube.com/watch?v=-Vj2Zk_4ZlQ&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=28"
+            "video": "embed?v=-Vj2Zk_4ZlQ&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=28"
         },
         {
             "titulo": "Les fonctions anonymes",
-            "video": "https://www.youtube.com/watch?v=H-IYbdYD62I&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=29"
+            "video": "embed?v=H-IYbdYD62I&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=29"
         },
         {
             "titulo": "Les fonctions auto invoquées",
-            "video": "https://www.youtube.com/watch?v=-zGCfPF1CU4&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=30"
+            "video": "embed?v=-zGCfPF1CU4&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=30"
         },
         {
             "titulo": "Les closures en JavaScript",
-            "video": "https://www.youtube.com/watch?v=ABFFm6a-DbE&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=31"
+            "video": "embed?v=ABFFm6a-DbE&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=31"
         },
         {
             "titulo": "Présentation du DOM HTML",
-            "video": "https://www.youtube.com/watch?v=qsBX7lV60fY&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=32"
+            "video": "embed?v=qsBX7lV60fY&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=32"
         },
         {
             "titulo": "Accéder à des éléments HTML en JavaScript",
-            "video": "https://www.youtube.com/watch?v=trO063YQbCs&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=33"
+            "video": "embed?v=trO063YQbCs&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=33"
         },
         {
             "titulo": "Modifier du contenu HTML en JavaScript",
-            "video": "https://www.youtube.com/watch?v=g0YPzvGBvQk&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=34"
+            "video": "embed?v=g0YPzvGBvQk&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=34"
         },
         {
             "titulo": "Ajouter et insérer des éléments HTML en JavaScript",
-            "video": "https://www.youtube.com/watch?v=g8znXUnkZvc&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=35"
+            "video": "embed?v=g8znXUnkZvc&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=35"
         },
         {
             "titulo": "Modifier ou supprimer des éléments HTML en JavaScript",
-            "video": "https://www.youtube.com/watch?v=o7gVp33dLDE&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=36"
+            "video": "embed?v=o7gVp33dLDE&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=36"
         },
         {
             "titulo": "Naviguer dans le DOM en JavaScript",
-            "video": "https://www.youtube.com/watch?v=VRdz6g6nOT4&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=37"
+            "video": "embed?v=VRdz6g6nOT4&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=37"
         },
         {
             "titulo": "Introduction aux évènements",
-            "video": "https://www.youtube.com/watch?v=3Qin-KZN1dE&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=38"
+            "video": "embed?v=3Qin-KZN1dE&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=38"
         },
         {
             "titulo": "La méthode addEventListener",
-            "video": "https://www.youtube.com/watch?v=ierLz3rZ0Vk&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=39"
+            "video": "embed?v=ierLz3rZ0Vk&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=39"
         },
         {
             "titulo": "La propagation des évènements",
-            "video": "https://www.youtube.com/watch?v=q10j1QGGjq4&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=40"
+            "video": "embed?v=q10j1QGGjq4&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=40"
         },
         {
             "titulo": "Présentation de l'objet Event",
-            "video": "https://www.youtube.com/watch?v=mqS2ACKTjTU&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=41"
+            "video": "embed?v=mqS2ACKTjTU&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=41"
         },
         {
             "titulo": "Le BOM et l'objet Window",
-            "video": "https://www.youtube.com/watch?v=WjMT59AAJu4&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=42"
+            "video": "embed?v=WjMT59AAJu4&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=42"
         },
         {
             "titulo": "Présentation de l'objet Screen",
-            "video": "https://www.youtube.com/watch?v=7HdPbLLdUgQ&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=43"
+            "video": "embed?v=7HdPbLLdUgQ&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=43"
         },
         {
             "titulo": "Présentation de l'objet Navigator",
-            "video": "https://www.youtube.com/watch?v=ZDD_WlfXZvo&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=44"
+            "video": "embed?v=ZDD_WlfXZvo&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=44"
         },
         {
             "titulo": "Présentation de l'objet Location",
-            "video": "https://www.youtube.com/watch?v=Q7U2DWiBRmM&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=45"
+            "video": "embed?v=Q7U2DWiBRmM&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=45"
         },
         {
             "titulo": "Présentation de l'objet History",
-            "video": "https://www.youtube.com/watch?v=Ukfzs0rni0s&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=46"
+            "video": "embed?v=Ukfzs0rni0s&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=46"
         },
         {
             "titulo": "Découverte des expressions régulières",
-            "video": "https://www.youtube.com/watch?v=3JQGuVOEQ-0&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=47"
+            "video": "embed?v=3JQGuVOEQ-0&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=47"
         },
         {
             "titulo": "Recherches et remplacements",
-            "video": "https://www.youtube.com/watch?v=mseTWZWIjYY&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=48"
+            "video": "embed?v=mseTWZWIjYY&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=48"
         },
         {
             "titulo": "Quantifieurs et options",
-            "video": "https://www.youtube.com/watch?v=Q-gnz6WPPHY&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=49"
+            "video": "embed?v=Q-gnz6WPPHY&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=49"
         },
         {
             "titulo": "Les classes de caractères et les métacaractères",
-            "video": "https://www.youtube.com/watch?v=BxPa_J9ftds&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=50"
+            "video": "embed?v=BxPa_J9ftds&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=50"
         },
         {
             "titulo": "Rappels sur les formulaires HTML",
-            "video": "https://www.youtube.com/watch?v=fAT5SaAqQ4s&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=51"
+            "video": "embed?v=fAT5SaAqQ4s&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=51"
         },
         {
             "titulo": "Validation HTML des formulaires et limitations",
-            "video": "https://www.youtube.com/watch?v=XymvvY0caOE&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=52"
+            "video": "embed?v=XymvvY0caOE&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=52"
         },
         {
             "titulo": "Validation JavaScript de formulaires HTML",
-            "video": "https://www.youtube.com/watch?v=HS_XB8EmuBo&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=53"
+            "video": "embed?v=HS_XB8EmuBo&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=53"
         },
         {
             "titulo": "Présentation de l'élément canvas",
-            "video": "https://www.youtube.com/watch?v=MebJu1d9i3k&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=54"
+            "video": "embed?v=MebJu1d9i3k&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=54"
         },
         {
             "titulo": "Dessiner des rectangles dans le canvas",
-            "video": "https://www.youtube.com/watch?v=19aZz1-Tzzk&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=55"
+            "video": "embed?v=19aZz1-Tzzk&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=55"
         },
         {
             "titulo": "Dessiner des lignes dans le canvas",
-            "video": "https://www.youtube.com/watch?v=9P3vmeMZQsw&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=56"
+            "video": "embed?v=9P3vmeMZQsw&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=56"
         },
         {
             "titulo": "Dessiner des arcs de cercle dans le canvas",
-            "video": "https://www.youtube.com/watch?v=fvwZki8jZ-c&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=57"
+            "video": "embed?v=fvwZki8jZ-c&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=57"
         },
         {
             "titulo": "Créer des dégradés dans le canvas",
-            "video": "https://www.youtube.com/watch?v=vxLYUopIOvU&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=58"
+            "video": "embed?v=vxLYUopIOvU&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=58"
         },
         {
             "titulo": "Insérer du texte et des images dans le canvas",
-            "video": "https://www.youtube.com/watch?v=l8dDmf344K0&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=59"
+            "video": "embed?v=l8dDmf344K0&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=59"
         },
         {
             "titulo": "Rotations et translations dans le canvas",
-            "video": "https://www.youtube.com/watch?v=twUjIUyQ94s&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=60"
+            "video": "embed?v=twUjIUyQ94s&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=60"
         },
         {
             "titulo": "Gestion du délai d'exécution en JavaScript",
-            "video": "https://www.youtube.com/watch?v=quTMcwbvrrQ&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=61"
+            "video": "embed?v=quTMcwbvrrQ&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=61"
         },
         {
             "titulo": "Les cookies en JavaScript",
-            "video": "https://www.youtube.com/watch?v=sRr3H_zl4zo&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=62"
+            "video": "embed?v=sRr3H_zl4zo&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=62"
         },
         {
             "titulo": "Gestion des erreurs en JavaScript",
-            "video": "https://www.youtube.com/watch?v=DtMpKtFk48M&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=63"
+            "video": "embed?v=DtMpKtFk48M&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=63"
         },
         {
             "titulo": "Le mode strict en JavaScript",
-            "video": "https://www.youtube.com/watch?v=1DWYlzXuxuk&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=64"
+            "video": "embed?v=1DWYlzXuxuk&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=64"
         },
         {
             "titulo": "Conclusion du cours JavaScript",
-            "video": "https://www.youtube.com/watch?v=hKC44Kh6TRM&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=65"
+            "video": "embed?v=hKC44Kh6TRM&list=PLwLsbqvBlImFB8AuT6ENIg-s87ys4yGWI&index=65"
         }
     ]
 }
