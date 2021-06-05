@@ -11,6 +11,11 @@ a {
     text-decoration: none;
 }
 
+.tags {
+    color: rgb(158, 158, 158);
+    -webkit-text-size-adjust: auto;
+}
+
 ::-webkit-scrollbar {
     width: 6px;
     height: 3px;
@@ -135,8 +140,8 @@ h3.tituloCurso {
     }
     .cardCursos {
         padding: 0;
-        width: 150px;
-        height: 200px;
+        width: 100%;
+        height: auto;
         min-width: 100px;
         border: 1px solid #fff;
         margin: 4px;
