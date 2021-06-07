@@ -4,5 +4,373 @@
     "ano": 2021,
     "professor": "Baba",
     "sinopse": "Tutorial de JavaScript para iniciantes em hindi e urdu da maneira mais fácil. Este curso intensivo de javascript em hindi explica cada ponto de programação javascript em detalhes.",
-    "videos": [  {"titulo":"JavaScript Introduction Tutorial in Hindi / Urdu","video":"embed?v=Lgxgm-T9cgA&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=1"},{"titulo":"JavaScript Implementation Tutorial in Hindi / Urdu","video":"embed?v=C7Pf2gTfgP0&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=2"},{"titulo":"Add Html Tags in JavaScript Tutorial in Hindi / Urdu","video":"embed?v=ZEMvZZdbBZM&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=3"},{"titulo":"JavaScript Comments Tutorial in Hindi / Urdu","video":"embed?v=SLxyizaN8X4&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=4"},{"titulo":"JavaScript Variables Tutorial in Hindi / Urdu","video":"embed?v=UHCHqInLg0M&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=5"},{"titulo":"JavaScript Variables ( Let & Const ) Tutorial in Hindi / Urdu","video":"embed?v=oe-VrENM_Oo&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=6"},{"titulo":"JavaScript Data Types Tutorial in Hindi / Urdu","video":"embed?v=p7mBGmKl6xY&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=7"},{"titulo":"JavaScript Arithmetic Operators Tutorial in Hindi / Urdu","video":"embed?v=g5llPHuhUUw&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=8"},{"titulo":"JavaScript Assignment Operators Tutorial in Hindi / Urdu","video":"embed?v=CxBXe_iU_Qk&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=9"},{"titulo":"JavaScript with Google Chrome Console Tutorial in Hindi / Urdu","video":"embed?v=G26aw_Nsk2c&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=10"},{"titulo":"JavaScript Comparison Operators Tutorial in Hindi / Urdu","video":"embed?v=u5dGu62dbPc&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=11"},{"titulo":"JavaScript If Statement Tutorial in Hindi / Urdu","video":"embed?v=jz2UVpEuUZE&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=12"},{"titulo":"JavaScript Logical Operators Tutorial in Hindi / Urdu","video":"embed?v=nMyhq_Gsd_0&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=13"},{"titulo":"JavaScript If Else Statement Tutorial in Hindi / Urdu","video":"embed?v=j6U4vfXuodw&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=14"},{"titulo":"JavaScript If Else If Statement Tutorial in Hindi / Urdu","video":"embed?v=-ZfjrcQRF-E&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=15"},{"titulo":"JavaScript Conditional Ternary Operator Tutorial in Hindi / Urdu","video":"embed?v=QzaWmh0A-gA&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=16"},{"titulo":"JavaScript Switch Case Tutorial in Hindi / Urdu","video":"embed?v=WYy_K75OGqk&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=17"},{"titulo":"JavaScript Alert Box Tutorial in Hindi / Urdu","video":"embed?v=GAJ6yIZ7fu8&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=18"},{"titulo":"JavaScript Confirm Box Tutorial in Hindi / Urdu","video":"embed?v=aZJG44cVVzY&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=19"},{"titulo":"JavaScript Prompt Box Tutorial in Hindi / Urdu","video":"embed?v=SNtKKW_RKi0&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=20"},{"titulo":"JavaScript Functions Tutorial in Hindi / Urdu","video":"embed?v=VBPlKT3x-MU&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=21"},{"titulo":"JavaScript Functions with Parameters Tutorial in Hindi / Urdu","video":"embed?v=L1AtWLNpwuQ&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=22"},{"titulo":"JavaScript Functions with Return Value Tutorial in Hindi / Urdu","video":"embed?v=ffIQPg2mG5w&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=23"},{"titulo":"JavaScript Global & Local Variable Tutorial in Hindi / Urdu","video":"embed?v=eaIOmh0Hyos&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=24"},{"titulo":"JavaScript Events Tutorial in Hindi / Urdu","video":"embed?v=R7mu7nKFc7w&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=25"},{"titulo":"JavaScript While Loop Tutorial in Hindi / urdu","video":"embed?v=uceqnCKB2Hg&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=26"},{"titulo":"JavaScript Do While Loop Tutorial in Hindi / Urdu","video":"embed?v=id0gwYgDT68&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=27"},{"titulo":"JavaScript For Loop Tutorial in Hindi / Urdu","video":"embed?v=aXlhVeinMfo&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=28"},{"titulo":"JavaScript Break & Continue Statement Tutorial in Hindi / Urdu","video":"embed?v=eITYb9ljz0U&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=29"},{"titulo":"JavaScript - Find Even & Odd Numbers with Loops in Hindi / Urdu","video":"embed?v=uo-yIJ6GTXw&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=30"},{"titulo":"JavaScript Nested Loop Tutorial in Hindi / Urdu","video":"embed?v=i736Gi3nZy8&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=31"},{"titulo":"JavaScript Nested Loop - II Tutorial in Hindi / Urdu","video":"embed?v=XVYzHgIyEDk&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=32"},{"titulo":"JavaScript Arrays Tutorial in Hindi / urdu","video":"embed?v=Xxn7lpjNwIw&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=33"},{"titulo":"JavaScript Create Arrays Method - II Tutorial in Hindi / Urdu","video":"embed?v=6e5ifDLmM6A&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=34"},{"titulo":"JavaScript Multidimensional Arrays Tutorial in Hindi / Urdu","video":"embed?v=9wKRqGk55qg&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=35"},{"titulo":"JavaScript Modify & Delete Array Elements Tutorial in Hindi / Urdu","video":"embed?v=KPNPHnmiEAM&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=36"},{"titulo":"JavaScript Array Sort & Reverse Tutorial in Hindi /Urdu","video":"embed?v=wjzguhR9uSE&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=37"},{"titulo":"JavaScript Array Pop & Push Tutorial in Hindi / Urdu","video":"embed?v=ipIFxfjdSCY&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=38"},{"titulo":"JavaScript Array Shift & Unshift Tutorial in Hindi / Urdu","video":"embed?v=sCO3QCSDlPc&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=39"},{"titulo":"JavaScript Array Concat & Join Tutorial in Hindi / Urdu","video":"embed?v=0O5XeSCe5QM&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=40"},{"titulo":"JavaScript Array Slice & Splice Tutorial in Hindi / Urdu","video":"embed?v=Y5HlAex8O0g&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=41"},{"titulo":"JavaScript isArray Tutorial in Hindi / Urdu","video":"embed?v=xxm67NBPvPA&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=42"},{"titulo":"JavaScript Array indexOf & lastIndexOf Tutorial in Hindi / Urdu","video":"embed?v=P3AKR4Avzx8&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=43"},{"titulo":"JavaScript Array Includes Method Tutorial in Hindi / Urdu","video":"embed?v=fsfFAe5fhpc&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=44"},{"titulo":"JavaScript Array Some & Every Methods Tutorial in Hindi / Urdu","video":"embed?v=TbkILUc8BFE&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=45"},{"titulo":"JavaScript Array find & findIndex Tutorial in Hindi / Urdu","video":"embed?v=daiUSEYvaMM&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=46"},{"titulo":"JavaScript Array Filter Tutorial in Hindi / Urdu","video":"embed?v=JVSXa6pmHsc&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=47"},{"titulo":"JavaScript Array toString, valueOf & fill Methods in Hindi / Urdu","video":"embed?v=80kYiMnpP88&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=48"},{"titulo":"JavaScript forEach Loop Tutorial in Hindi / Urdu","video":"embed?v=u2GVOicqFKM&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=49"},{"titulo":"JavaScript Objects Tutorial in Hindi / Urdu","video":"embed?v=JYKATlAS3ZU&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=50"},{"titulo":"JavaScript Objects Tutorial - II in Hindi / Urdu","video":"embed?v=Jwm40bInIRM&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=51"},{"titulo":"JavaScript Array of Objects Tutorial in Hindi / Urdu","video":"embed?v=1ZRpey-0kHg&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=52"},{"titulo":"JavaScript Const Variable with Array & Objects in Hindi / Urdu","video":"embed?v=L8E7izVDK7s&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=53"},{"titulo":"JavaScript For in Loop Tutorial in Hindi / Urdu","video":"embed?v=q-x563o-lBc&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=54"},{"titulo":"JavaScript Map Method Tutorial in Hindi / Urdu","video":"embed?v=i17a2cHGsIg&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=55"},{"titulo":"JavaScript String Methods Tutorial in Hindi / Urdu","video":"embed?v=q4Fne_Kwkxs&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=56"},{"titulo":"JavaScript String Methods - II Tutorial in Hindi / Urdu","video":"embed?v=irOLrmZT-5E&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=57"},{"titulo":"JavaScript Number Methods Tutorial in Hindi / Urdu","video":"embed?v=kp8bbu4IgEY&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=58"},{"titulo":"JavaScript Math Methods Tutorial in Hindi / Urdu","video":"embed?v=zKVXQ_RgRJA&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=59"},{"titulo":"JavaScript Date Methods Tutorial in Hindi / Urdu","video":"embed?v=VSKwgWPVA9M&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=60"},{"titulo":"JavaScript DOM Introduction Tutorial in Hindi / Urdu","video":"embed?v=YIawGqNxe0E&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=61"},{"titulo":"JavaScript DOM Targeting Methods Tutorial in Hindi / Urdu","video":"embed?v=y9Tl-PBprdA&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=62"},{"titulo":"JavaScript DOM Get & Set Value Methods Tutorial in Hindi / Urdu","video":"embed?v=90lP6-LXPl8&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=63"},{"titulo":"JavaScript DOM querySelector & querySelectorAll Tutorial in Hindi","video":"embed?v=Tmn1kTysDOQ&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=64"},{"titulo":"JavaScript DOM CSS Styling Methods Tutorial in Hindi / Urdu","video":"embed?v=JeuPPUjY4kQ&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=65"},{"titulo":"JavaScript addEventListener Method Tutorial in Hindi / Urdu","video":"embed?v=NhRhrAziBRU&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=66"},{"titulo":"JavaScript classList Methods Tutorial in Hindi / Urdu","video":"embed?v=ykwBHnxP020&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=67"},{"titulo":"JavaScript parentElement & parentNode Method Tutorial in Hindi / Urdu","video":"embed?v=Pe3sdhA7YME&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=68"},{"titulo":"JavaScript Children & childNodes Methods Tutorial in Hindi / Urdu","video":"embed?v=nYr4e4H09MM&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=69"},{"titulo":"JavaScript firstChild & lastChild Method Tutorial in Hindi / Urdu","video":"embed?v=Fo2QsLDOYlY&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=70"},{"titulo":"JavaScript nextSibling & previousSibling Method Tutorial in Hindi / Urdu","video":"embed?v=kn1BVQYgEDk&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=71"},{"titulo":"JavaScript createElement & createTextNode Tutorial in Hindi / Urdu","video":"embed?v=KwPolbxL8Ps&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=72"},{"titulo":"JavaScript appendChild & insertBefore Tutorial in Hindi / Urdu","video":"embed?v=XJU0KdOdwLM&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=73"},{"titulo":"JavaScript insertAdjacentElement & insertAdjacentHTML Tutorial in Hindi","video":"embed?v=1SYUI0uHksM&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=74"},{"titulo":"JavaScript replaceChild & removeChild Tutorial in Hindi / Urdu","video":"embed?v=x7sKDeL7SrA&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=75"},{"titulo":"JavaScript cloneNode Tutorial in Hindi / Urdu","video":"embed?v=xwpGrNTP_oo&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=76"},{"titulo":"JavaScript Contains Method Tutorial in Hindi / Urdu","video":"embed?v=hkgqaCOK3r8&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=77"},{"titulo":"JavaScript hasAttribute & hasChildNodes Tutorial in Hindi / Urdu","video":"embed?v=me-Yuhf8CtI&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=78"},{"titulo":"JavaScript isEqualNode Tutorial in Hindi / Urdu","video":"embed?v=p_bIgCryknU&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=79"},{"titulo":"JavaScript Form Events Tutorial in Hindi / Urdu","video":"embed?v=oQbDKJ3WXZg&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=80"},{"titulo":"JavaScript Form Events Tutorial - II in Hindi / Urdu","video":"embed?v=Y3bdUHR9Cus&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=81"},{"titulo":"JavaScript setInterval & clearInterval Tutorial in Hindi / Urdu","video":"embed?v=aPYcERo8IGA&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=82"},{"titulo":"JavaScript setTimeout & clearTimeout Tutorial in Hindi / Urdu","video":"embed?v=o83Z3ORQBrU&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=83"},{"titulo":"JavaScript BOM Introduction Tutorial in Hindi / Urdu","video":"embed?v=rsLZGZPFGqw&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=84"},{"titulo":"JavaScript Window Height & Width Method Tutorial in Hindi / Urdu","video":"embed?v=LSJwoxRBjoA&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=85"},{"titulo":"JavaScript Window Open & Close Method Tutorial in Hindi / Urdu","video":"embed?v=tkMZ5n8EObk&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=86"},{"titulo":"JavaScript Window moveBy & moveTo Tutorial in Hindi / Urdu","video":"embed?v=zbaOou2b95g&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=87"},{"titulo":"JavaScript resizeBy & resizeTo Tutorial in Hindi / Urdu","video":"embed?v=VZPCq-mkwEU&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=88"},{"titulo":"JavaScript scrollBy & scrollTo Tutorial in Hindi / Urdu","video":"embed?v=6AumMbHpahE&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=89"},{"titulo":"JavaScript Location Object Tutorial in Hindi / Urdu","video":"embed?v=pFHw1Hl08nk&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=90"},{"titulo":"JavaScript History Object Tutorial in Hindi / Urdu","video":"embed?v=nYrCHWPjsbk&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=91"},{"titulo":"Advance JavaScript - Introduction in Hindi / Urdu","video":"embed?v=IUFJzLlf2cE&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=92"} ]
+    "videos": [{
+            "titulo": "JavaScript Introduction Tutorial in Hindi / Urdu",
+            "video": "embed?v=Lgxgm-T9cgA&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=1"
+        },
+        {
+            "titulo": "JavaScript Implementation Tutorial in Hindi / Urdu",
+            "video": "embed?v=C7Pf2gTfgP0&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=2"
+        },
+        {
+            "titulo": "Add Html Tags in JavaScript Tutorial in Hindi / Urdu",
+            "video": "embed?v=ZEMvZZdbBZM&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=3"
+        },
+        {
+            "titulo": "JavaScript Comments Tutorial in Hindi / Urdu",
+            "video": "embed?v=SLxyizaN8X4&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=4"
+        },
+        {
+            "titulo": "JavaScript Variables Tutorial in Hindi / Urdu",
+            "video": "embed?v=UHCHqInLg0M&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=5"
+        },
+        {
+            "titulo": "JavaScript Variables ( Let & Const ) Tutorial in Hindi / Urdu",
+            "video": "embed?v=oe-VrENM_Oo&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=6"
+        },
+        {
+            "titulo": "JavaScript Data Types Tutorial in Hindi / Urdu",
+            "video": "embed?v=p7mBGmKl6xY&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=7"
+        },
+        {
+            "titulo": "JavaScript Arithmetic Operators Tutorial in Hindi / Urdu",
+            "video": "embed?v=g5llPHuhUUw&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=8"
+        },
+        {
+            "titulo": "JavaScript Assignment Operators Tutorial in Hindi / Urdu",
+            "video": "embed?v=CxBXe_iU_Qk&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=9"
+        },
+        {
+            "titulo": "JavaScript with Google Chrome Console Tutorial in Hindi / Urdu",
+            "video": "embed?v=G26aw_Nsk2c&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=10"
+        },
+        {
+            "titulo": "JavaScript Comparison Operators Tutorial in Hindi / Urdu",
+            "video": "embed?v=u5dGu62dbPc&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=11"
+        },
+        {
+            "titulo": "JavaScript If Statement Tutorial in Hindi / Urdu",
+            "video": "embed?v=jz2UVpEuUZE&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=12"
+        },
+        {
+            "titulo": "JavaScript Logical Operators Tutorial in Hindi / Urdu",
+            "video": "embed?v=nMyhq_Gsd_0&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=13"
+        },
+        {
+            "titulo": "JavaScript If Else Statement Tutorial in Hindi / Urdu",
+            "video": "embed?v=j6U4vfXuodw&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=14"
+        },
+        {
+            "titulo": "JavaScript If Else If Statement Tutorial in Hindi / Urdu",
+            "video": "embed?v=-ZfjrcQRF-E&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=15"
+        },
+        {
+            "titulo": "JavaScript Conditional Ternary Operator Tutorial in Hindi / Urdu",
+            "video": "embed?v=QzaWmh0A-gA&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=16"
+        },
+        {
+            "titulo": "JavaScript Switch Case Tutorial in Hindi / Urdu",
+            "video": "embed?v=WYy_K75OGqk&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=17"
+        },
+        {
+            "titulo": "JavaScript Alert Box Tutorial in Hindi / Urdu",
+            "video": "embed?v=GAJ6yIZ7fu8&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=18"
+        },
+        {
+            "titulo": "JavaScript Confirm Box Tutorial in Hindi / Urdu",
+            "video": "embed?v=aZJG44cVVzY&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=19"
+        },
+        {
+            "titulo": "JavaScript Prompt Box Tutorial in Hindi / Urdu",
+            "video": "embed?v=SNtKKW_RKi0&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=20"
+        },
+        {
+            "titulo": "JavaScript Functions Tutorial in Hindi / Urdu",
+            "video": "embed?v=VBPlKT3x-MU&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=21"
+        },
+        {
+            "titulo": "JavaScript Functions with Parameters Tutorial in Hindi / Urdu",
+            "video": "embed?v=L1AtWLNpwuQ&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=22"
+        },
+        {
+            "titulo": "JavaScript Functions with Return Value Tutorial in Hindi / Urdu",
+            "video": "embed?v=ffIQPg2mG5w&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=23"
+        },
+        {
+            "titulo": "JavaScript Global & Local Variable Tutorial in Hindi / Urdu",
+            "video": "embed?v=eaIOmh0Hyos&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=24"
+        },
+        {
+            "titulo": "JavaScript Events Tutorial in Hindi / Urdu",
+            "video": "embed?v=R7mu7nKFc7w&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=25"
+        },
+        {
+            "titulo": "JavaScript While Loop Tutorial in Hindi / urdu",
+            "video": "embed?v=uceqnCKB2Hg&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=26"
+        },
+        {
+            "titulo": "JavaScript Do While Loop Tutorial in Hindi / Urdu",
+            "video": "embed?v=id0gwYgDT68&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=27"
+        },
+        {
+            "titulo": "JavaScript For Loop Tutorial in Hindi / Urdu",
+            "video": "embed?v=aXlhVeinMfo&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=28"
+        },
+        {
+            "titulo": "JavaScript Break & Continue Statement Tutorial in Hindi / Urdu",
+            "video": "embed?v=eITYb9ljz0U&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=29"
+        },
+        {
+            "titulo": "JavaScript - Find Even & Odd Numbers with Loops in Hindi / Urdu",
+            "video": "embed?v=uo-yIJ6GTXw&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=30"
+        },
+        {
+            "titulo": "JavaScript Nested Loop Tutorial in Hindi / Urdu",
+            "video": "embed?v=i736Gi3nZy8&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=31"
+        },
+        {
+            "titulo": "JavaScript Nested Loop - II Tutorial in Hindi / Urdu",
+            "video": "embed?v=XVYzHgIyEDk&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=32"
+        },
+        {
+            "titulo": "JavaScript Arrays Tutorial in Hindi / urdu",
+            "video": "embed?v=Xxn7lpjNwIw&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=33"
+        },
+        {
+            "titulo": "JavaScript Create Arrays Method - II Tutorial in Hindi / Urdu",
+            "video": "embed?v=6e5ifDLmM6A&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=34"
+        },
+        {
+            "titulo": "JavaScript Multidimensional Arrays Tutorial in Hindi / Urdu",
+            "video": "embed?v=9wKRqGk55qg&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=35"
+        },
+        {
+            "titulo": "JavaScript Modify & Delete Array Elements Tutorial in Hindi / Urdu",
+            "video": "embed?v=KPNPHnmiEAM&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=36"
+        },
+        {
+            "titulo": "JavaScript Array Sort & Reverse Tutorial in Hindi /Urdu",
+            "video": "embed?v=wjzguhR9uSE&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=37"
+        },
+        {
+            "titulo": "JavaScript Array Pop & Push Tutorial in Hindi / Urdu",
+            "video": "embed?v=ipIFxfjdSCY&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=38"
+        },
+        {
+            "titulo": "JavaScript Array Shift & Unshift Tutorial in Hindi / Urdu",
+            "video": "embed?v=sCO3QCSDlPc&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=39"
+        },
+        {
+            "titulo": "JavaScript Array Concat & Join Tutorial in Hindi / Urdu",
+            "video": "embed?v=0O5XeSCe5QM&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=40"
+        },
+        {
+            "titulo": "JavaScript Array Slice & Splice Tutorial in Hindi / Urdu",
+            "video": "embed?v=Y5HlAex8O0g&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=41"
+        },
+        {
+            "titulo": "JavaScript isArray Tutorial in Hindi / Urdu",
+            "video": "embed?v=xxm67NBPvPA&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=42"
+        },
+        {
+            "titulo": "JavaScript Array indexOf & lastIndexOf Tutorial in Hindi / Urdu",
+            "video": "embed?v=P3AKR4Avzx8&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=43"
+        },
+        {
+            "titulo": "JavaScript Array Includes Method Tutorial in Hindi / Urdu",
+            "video": "embed?v=fsfFAe5fhpc&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=44"
+        },
+        {
+            "titulo": "JavaScript Array Some & Every Methods Tutorial in Hindi / Urdu",
+            "video": "embed?v=TbkILUc8BFE&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=45"
+        },
+        {
+            "titulo": "JavaScript Array find & findIndex Tutorial in Hindi / Urdu",
+            "video": "embed?v=daiUSEYvaMM&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=46"
+        },
+        {
+            "titulo": "JavaScript Array Filter Tutorial in Hindi / Urdu",
+            "video": "embed?v=JVSXa6pmHsc&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=47"
+        },
+        {
+            "titulo": "JavaScript Array toString, valueOf & fill Methods in Hindi / Urdu",
+            "video": "embed?v=80kYiMnpP88&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=48"
+        },
+        {
+            "titulo": "JavaScript forEach Loop Tutorial in Hindi / Urdu",
+            "video": "embed?v=u2GVOicqFKM&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=49"
+        },
+        {
+            "titulo": "JavaScript Objects Tutorial in Hindi / Urdu",
+            "video": "embed?v=JYKATlAS3ZU&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=50"
+        },
+        {
+            "titulo": "JavaScript Objects Tutorial - II in Hindi / Urdu",
+            "video": "embed?v=Jwm40bInIRM&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=51"
+        },
+        {
+            "titulo": "JavaScript Array of Objects Tutorial in Hindi / Urdu",
+            "video": "embed?v=1ZRpey-0kHg&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=52"
+        },
+        {
+            "titulo": "JavaScript Const Variable with Array & Objects in Hindi / Urdu",
+            "video": "embed?v=L8E7izVDK7s&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=53"
+        },
+        {
+            "titulo": "JavaScript For in Loop Tutorial in Hindi / Urdu",
+            "video": "embed?v=q-x563o-lBc&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=54"
+        },
+        {
+            "titulo": "JavaScript Map Method Tutorial in Hindi / Urdu",
+            "video": "embed?v=i17a2cHGsIg&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=55"
+        },
+        {
+            "titulo": "JavaScript String Methods Tutorial in Hindi / Urdu",
+            "video": "embed?v=q4Fne_Kwkxs&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=56"
+        },
+        {
+            "titulo": "JavaScript String Methods - II Tutorial in Hindi / Urdu",
+            "video": "embed?v=irOLrmZT-5E&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=57"
+        },
+        {
+            "titulo": "JavaScript Number Methods Tutorial in Hindi / Urdu",
+            "video": "embed?v=kp8bbu4IgEY&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=58"
+        },
+        {
+            "titulo": "JavaScript Math Methods Tutorial in Hindi / Urdu",
+            "video": "embed?v=zKVXQ_RgRJA&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=59"
+        },
+        {
+            "titulo": "JavaScript Date Methods Tutorial in Hindi / Urdu",
+            "video": "embed?v=VSKwgWPVA9M&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=60"
+        },
+        {
+            "titulo": "JavaScript DOM Introduction Tutorial in Hindi / Urdu",
+            "video": "embed?v=YIawGqNxe0E&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=61"
+        },
+        {
+            "titulo": "JavaScript DOM Targeting Methods Tutorial in Hindi / Urdu",
+            "video": "embed?v=y9Tl-PBprdA&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=62"
+        },
+        {
+            "titulo": "JavaScript DOM Get & Set Value Methods Tutorial in Hindi / Urdu",
+            "video": "embed?v=90lP6-LXPl8&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=63"
+        },
+        {
+            "titulo": "JavaScript DOM querySelector & querySelectorAll Tutorial in Hindi",
+            "video": "embed?v=Tmn1kTysDOQ&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=64"
+        },
+        {
+            "titulo": "JavaScript DOM CSS Styling Methods Tutorial in Hindi / Urdu",
+            "video": "embed?v=JeuPPUjY4kQ&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=65"
+        },
+        {
+            "titulo": "JavaScript addEventListener Method Tutorial in Hindi / Urdu",
+            "video": "embed?v=NhRhrAziBRU&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=66"
+        },
+        {
+            "titulo": "JavaScript classList Methods Tutorial in Hindi / Urdu",
+            "video": "embed?v=ykwBHnxP020&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=67"
+        },
+        {
+            "titulo": "JavaScript parentElement & parentNode Method Tutorial in Hindi / Urdu",
+            "video": "embed?v=Pe3sdhA7YME&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=68"
+        },
+        {
+            "titulo": "JavaScript Children & childNodes Methods Tutorial in Hindi / Urdu",
+            "video": "embed?v=nYr4e4H09MM&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=69"
+        },
+        {
+            "titulo": "JavaScript firstChild & lastChild Method Tutorial in Hindi / Urdu",
+            "video": "embed?v=Fo2QsLDOYlY&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=70"
+        },
+        {
+            "titulo": "JavaScript nextSibling & previousSibling Method Tutorial in Hindi / Urdu",
+            "video": "embed?v=kn1BVQYgEDk&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=71"
+        },
+        {
+            "titulo": "JavaScript createElement & createTextNode Tutorial in Hindi / Urdu",
+            "video": "embed?v=KwPolbxL8Ps&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=72"
+        },
+        {
+            "titulo": "JavaScript appendChild & insertBefore Tutorial in Hindi / Urdu",
+            "video": "embed?v=XJU0KdOdwLM&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=73"
+        },
+        {
+            "titulo": "JavaScript insertAdjacentElement & insertAdjacentHTML Tutorial in Hindi",
+            "video": "embed?v=1SYUI0uHksM&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=74"
+        },
+        {
+            "titulo": "JavaScript replaceChild & removeChild Tutorial in Hindi / Urdu",
+            "video": "embed?v=x7sKDeL7SrA&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=75"
+        },
+        {
+            "titulo": "JavaScript cloneNode Tutorial in Hindi / Urdu",
+            "video": "embed?v=xwpGrNTP_oo&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=76"
+        },
+        {
+            "titulo": "JavaScript Contains Method Tutorial in Hindi / Urdu",
+            "video": "embed?v=hkgqaCOK3r8&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=77"
+        },
+        {
+            "titulo": "JavaScript hasAttribute & hasChildNodes Tutorial in Hindi / Urdu",
+            "video": "embed?v=me-Yuhf8CtI&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=78"
+        },
+        {
+            "titulo": "JavaScript isEqualNode Tutorial in Hindi / Urdu",
+            "video": "embed?v=p_bIgCryknU&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=79"
+        },
+        {
+            "titulo": "JavaScript Form Events Tutorial in Hindi / Urdu",
+            "video": "embed?v=oQbDKJ3WXZg&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=80"
+        },
+        {
+            "titulo": "JavaScript Form Events Tutorial - II in Hindi / Urdu",
+            "video": "embed?v=Y3bdUHR9Cus&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=81"
+        },
+        {
+            "titulo": "JavaScript setInterval & clearInterval Tutorial in Hindi / Urdu",
+            "video": "embed?v=aPYcERo8IGA&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=82"
+        },
+        {
+            "titulo": "JavaScript setTimeout & clearTimeout Tutorial in Hindi / Urdu",
+            "video": "embed?v=o83Z3ORQBrU&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=83"
+        },
+        {
+            "titulo": "JavaScript BOM Introduction Tutorial in Hindi / Urdu",
+            "video": "embed?v=rsLZGZPFGqw&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=84"
+        },
+        {
+            "titulo": "JavaScript Window Height & Width Method Tutorial in Hindi / Urdu",
+            "video": "embed?v=LSJwoxRBjoA&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=85"
+        },
+        {
+            "titulo": "JavaScript Window Open & Close Method Tutorial in Hindi / Urdu",
+            "video": "embed?v=tkMZ5n8EObk&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=86"
+        },
+        {
+            "titulo": "JavaScript Window moveBy & moveTo Tutorial in Hindi / Urdu",
+            "video": "embed?v=zbaOou2b95g&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=87"
+        },
+        {
+            "titulo": "JavaScript resizeBy & resizeTo Tutorial in Hindi / Urdu",
+            "video": "embed?v=VZPCq-mkwEU&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=88"
+        },
+        {
+            "titulo": "JavaScript scrollBy & scrollTo Tutorial in Hindi / Urdu",
+            "video": "embed?v=6AumMbHpahE&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=89"
+        },
+        {
+            "titulo": "JavaScript Location Object Tutorial in Hindi / Urdu",
+            "video": "embed?v=pFHw1Hl08nk&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=90"
+        },
+        {
+            "titulo": "JavaScript History Object Tutorial in Hindi / Urdu",
+            "video": "embed?v=nYrCHWPjsbk&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=91"
+        },
+        {
+            "titulo": "Advance JavaScript - Introduction in Hindi / Urdu",
+            "video": "embed?v=IUFJzLlf2cE&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf&index=92"
+        }
+    ]
 }
