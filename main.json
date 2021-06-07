@@ -66,6 +66,12 @@
             "tags": "Tags: JavaScript, Jquery"
         },
         {
+            "link": "pages/yahooBabaJs.html",
+            "linkImg": "https://i.ytimg.com/vi/IUFJzLlf2cE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCx70YS5nOUQCs8-U-yqCHkcQJQdA",
+            "titulo": "Advance JavaScript Tutorial in Hindi / Urdu",
+            "tags": "Tags: JavaScript"
+        },
+        {
             "link": "pages/yahoobabaJsBeginners.html",
             "linkImg": "https://i.ytimg.com/vi/Lgxgm-T9cgA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBQLNvwCjrciI31brv2JPo39tLuCA",
             "titulo": "JavaScript Tutorial for beginners in Hindi / Urdu",
