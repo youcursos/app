@@ -1,0 +1,96 @@
+{
+    "titulo": "Advance JavaScript Tutorial in Hindi / Urdu",
+    "canal": "yahoobaba",
+    "ano": 2021,
+    "professor": "Baba",
+    "sinopse": "Neste tutorial, você aprenderá a introdução avançada do javascript em hindi, urdu. Você pode aprender o que é a versão do Javascript es6, a história do javascript em hindi.",
+    "videos": [{
+            "titulo": "Advance JavaScript - Introduction in Hindi / Urdu",
+            "video": "embed?v=IUFJzLlf2cE&list=PL0b6OzIxLPbzvz4j1N4J8zCY8mu3l29MG&index=1"
+        },
+        {
+            "titulo": "Advance JavaScript - Let & Const Variable Tutorial in Hindi / Urdu",
+            "video": "embed?v=7fC9s7Cw_ew&list=PL0b6OzIxLPbzvz4j1N4J8zCY8mu3l29MG&index=2"
+        },
+        {
+            "titulo": "Advance JavaScript - Template Strings Tutorial in Hindi / Urdu",
+            "video": "embed?v=OsM4W-A7vNo&list=PL0b6OzIxLPbzvz4j1N4J8zCY8mu3l29MG&index=3"
+        },
+        {
+            "titulo": "Advance JavaScript - Arrow Functions Tutorial in Hindi / Urdu",
+            "video": "embed?v=_iS6aLgk5gQ&list=PL0b6OzIxLPbzvz4j1N4J8zCY8mu3l29MG&index=4"
+        },
+        {
+            "titulo": "Advance JavaScript - Rest Operator Tutorial in Hindi / Urdu",
+            "video": "embed?v=ngimOC0V_Q8&list=PL0b6OzIxLPbzvz4j1N4J8zCY8mu3l29MG&index=5"
+        },
+        {
+            "titulo": "Advance JavaScript - Spread Operator Tutorial in Hindi / Urdu",
+            "video": "embed?v=ysQFRsYv5VM&list=PL0b6OzIxLPbzvz4j1N4J8zCY8mu3l29MG&index=6"
+        },
+        {
+            "titulo": "Advance JavaScript - Object Literals Tutorial in Hindi / Urdu",
+            "video": "embed?v=471WgxTZ9fE&list=PL0b6OzIxLPbzvz4j1N4J8zCY8mu3l29MG&index=7"
+        },
+        {
+            "titulo": "Advance JavaScript - Destructuring Array Tutorial in Hindi / Urdu",
+            "video": "embed?v=GjHFfCpkdR0&list=PL0b6OzIxLPbzvz4j1N4J8zCY8mu3l29MG&index=8"
+        },
+        {
+            "titulo": "Advance Javascript - Destructuring Object Tutorial in Hindi / Urdu",
+            "video": "embed?v=T1MaQdYCL8I&list=PL0b6OzIxLPbzvz4j1N4J8zCY8mu3l29MG&index=9"
+        },
+        {
+            "titulo": "Advance Javascript - OOP Introduction Tutorial in Hindi / Urdu",
+            "video": "embed?v=ckdDIhQyK_A&list=PL0b6OzIxLPbzvz4j1N4J8zCY8mu3l29MG&index=10"
+        },
+        {
+            "titulo": "Advance Javascript - Class Inheritance Tutorial in Hindi / Urdu",
+            "video": "embed?v=2ZNbdUyjGUY&list=PL0b6OzIxLPbzvz4j1N4J8zCY8mu3l29MG&index=11"
+        },
+        {
+            "titulo": "Advance Javascript - Modules Tutorial in Hindi / Urdu",
+            "video": "embed?v=FDZIt1MDuBI&list=PL0b6OzIxLPbzvz4j1N4J8zCY8mu3l29MG&index=12"
+        },
+        {
+            "titulo": "Advance JavaScript - Promise Tutorial in Hindi / Urdu",
+            "video": "embed?v=CfNsy4K9atY&list=PL0b6OzIxLPbzvz4j1N4J8zCY8mu3l29MG&index=13"
+        },
+        {
+            "titulo": "Advance Javascript - Promise.all Tutorial in Hindi / Urdu",
+            "video": "embed?v=c4yn2yEgykE&list=PL0b6OzIxLPbzvz4j1N4J8zCY8mu3l29MG&index=14"
+        },
+        {
+            "titulo": "Advance JavaScript - Ajax Tutorial in Hindi / Urdu",
+            "video": "embed?v=4bMQjDrsMwE&list=PL0b6OzIxLPbzvz4j1N4J8zCY8mu3l29MG&index=15"
+        },
+        {
+            "titulo": "Advance JavaScript - Fetch API Tutorial in Hindi / Urdu",
+            "video": "embed?v=9YNGAxXGJzM&list=PL0b6OzIxLPbzvz4j1N4J8zCY8mu3l29MG&index=16"
+        },
+        {
+            "titulo": "Advance JavaScript - Async & Await Tutorial in Hindi / Urdu",
+            "video": "embed?v=XFEAMyB85RA&list=PL0b6OzIxLPbzvz4j1N4J8zCY8mu3l29MG&index=17"
+        },
+        {
+            "titulo": "Advance JavaScript - Symbols Tutorial in Hindi / Urdu",
+            "video": "embed?v=rf-5okAVias&list=PL0b6OzIxLPbzvz4j1N4J8zCY8mu3l29MG&index=18"
+        },
+        {
+            "titulo": "Advance JavaScript - Iterators Tutorial in Hindi / Urdu",
+            "video": "embed?v=VnR_5eE36yM&list=PL0b6OzIxLPbzvz4j1N4J8zCY8mu3l29MG&index=19"
+        },
+        {
+            "titulo": "Advance JavaScript - Generators Tutorial in Hindi / Urdu",
+            "video": "embed?v=Qkcwveti-lE&list=PL0b6OzIxLPbzvz4j1N4J8zCY8mu3l29MG&index=20"
+        },
+        {
+            "titulo": "Advance JavaScript - Strict Mode Tutorial in Hindi / Urdu",
+            "video": "embed?v=FiAKLb4qrvo&list=PL0b6OzIxLPbzvz4j1N4J8zCY8mu3l29MG&index=21"
+        },
+        {
+            "titulo": "Advance JavaScript - Error Handling Tutorial in Hindi / Urdu",
+            "video": "embed?v=fRv2ng_srrM&list=PL0b6OzIxLPbzvz4j1N4J8zCY8mu3l29MG&index=22"
+        }
+    ]
+}
