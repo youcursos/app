@@ -26,8 +26,8 @@
         {
             "link": "pages/kevenjesus.html",
             "linkImg": "https://i.ytimg.com/vi/ftWXUUM5YxU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA67UPEhePBCRgF11-gzTmV3NGyKQ",
-            "titulo": "O curso de Javascript com jQuery...",
-            "tags": "Tags: JavaScript"
+            "titulo": "Curso de Javascript Completo GRÁTIS!",
+            "tags": "Tags: JavaScript Jquery"
         },
         {
             "link": "pages/horadeCodar.html",
@@ -58,6 +58,13 @@
             "linkImg": "https://i.ytimg.com/vi/m2nscBtQEIs/maxresdefault.jpg",
             "titulo": "Curso JavaScript desde 0 - pildoras informaticas",
             "tags": "Tags: JavaScript"
+        },
+        {
+            "link": "pages/yahooBabaJquery.html",
+            "linkImg": "https://i.ytimg.com/vi/QvaFeU0LWnc/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDouAD461GGley_L3RL_q0oM1VdXQ",
+            "titulo": "Tutoriais jQuery em hindi / urdu",
+            "tags": "Tags: JavaScript, Jquery"
         }
     ]
+
 }
