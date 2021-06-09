@@ -14,29 +14,38 @@
 
 </head>
 
-<body onload="loadJson()" class="container" id="JavaScriptCursoEmVideo ">
-    <div class="container ">
+<body onload="loadJson()" class="" id="JavaScriptCursoEmVideo ">
+    <div class="containerHeader w-100">
         <!-- Just an image -->
-        <nav class="navbar navbar-expand navbar-light ">
-            <a class="navbar-brand " href="# ">
-                <img src="image/logo.png " width="30 " height="30 " alt=" ">
-            </a>
-            <div class="navbar-nav ">
+        <nav class="navbar navbar-expand navbar-light headeMenu px-5  d-flex justify-content-between ">
+            <!-- Logo -->
+            <a class="navbar-brand" href="# "><img src="image/logo.png " width="30 " height="30 " alt=" "></a>
+            <!-- Logo -->
+            <!-- Menu -->
+            <!-- <div class="navbar-nav">
                 <a class="nav-link text-white active " href="# ">Home <span class="sr-only ">(current)</span></a>
                 <a class="nav-link text-white " href="# ">Iniciante</a>
                 <a class="nav-link text-white " href="# ">Intermediario</a>
                 <a class="nav-link text-white " href="# ">Avançado</a>
+            </div> -->
+            <!-- Menu -->
+
+            <form class="d-flex w-100">
+                <input class="campo" type="text" id="campo" onkeyup="loadJson()" placeholder="Pesquisar">
+            </form>
+            <div class="iconBusca">
+                <i class="fas fa-search"></i>
             </div>
         </nav>
     </div>
-    <!-- Carrossel -->
-    <div class="container px-5 ">
+    <!-- Carrossel 
+    <div class="container">
 
-        <div id="carouselExampleSlidesOnly " class="carouselcontainer " data-ride="carousel ">
-            <div class="carousel-inner ">
+        <div id="carouselExampleSlidesOnly " class="carouselcontainer " data-ride="carousel">
+            <div class="carousel-inner">
                 <div class="carousel-item active ">
                     <img src="https://i.ytimg.com/vi/BXqUH86F-kA/maxresdefault.jpg " class="d-block w-100 " alt="... ">
-                    <div class="carousel-caption d-md-block ">
+                    <div class="carousel-caption d-md-block">
                         <a href="pages/JavaScriptCursoEmVideo.html ">
                             <h1 class="text-white ">Curso de Javascript</h1>
                         </a>
@@ -45,13 +54,13 @@
                 </div>
 
             </div>
-        </div>
+        </div>-->
 
     </div>
     <!-- Div Contenedor -->
     <div>
 
-        <div class="my-5 ">
+        <div class="my-5 container">
             <h1 class="text-white ">Iniciante</h1>
             <div id="recebe" style="display: flex; justify-content: center; flex-wrap: wrap; ">
 
