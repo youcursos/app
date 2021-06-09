@@ -47,6 +47,11 @@ a {
     align-items: center;
 }
 
+.headeMenu {
+    background-color: rgb(210, 0, 0);
+    font-weight: 900;
+}
+
 .header i {
     font-size: 2em;
     color: white;
@@ -130,10 +135,62 @@ h3.tituloCurso {
     align-items: center;
 }
 
+.campo {
+    width: 100%!important;
+    margin: 0px 4px 0 4px;
+    background-color: rgb(210, 0, 0);
+    display: none;
+    border: none;
+    border-bottom: 1px solid white;
+}
+
+.campo::placeholder {
+    color: white;
+    display: none;
+}
+
+.campo:focus {
+    color: white;
+    outline: none;
+    background-color: rgb(210, 0, 0);
+    border: none;
+}
+
+.iconBusca {
+    cursor: pointer;
+    align-items: center;
+    align-self: center;
+    font-size: 1.3rem;
+    color: white;
+}
+
 
 /* Responsive */
 
 @media(max-width: 500px) {
+    .navbar-nav {
+        display: none;
+    }
+    .header {
+        width: 96%;
+        height: 300px;
+    }
+    .cardCursos {
+        padding: 0;
+        width: 40%;
+        height: auto;
+        min-width: 100px;
+        border: 1px solid #fff;
+        margin: 4px;
+        text-align: center;
+        align-items: center;
+    }
+}
+
+@media(max-width: 450px) {
+    #container {
+        width: 100%;
+    }
     .header {
         width: 96%;
         height: 300px;
