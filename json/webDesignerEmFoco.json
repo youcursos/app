@@ -1,0 +1,248 @@
+{
+    "titulo": "Vanilla Javascript - Webdesign em Foco",
+    "canal": "Webdesign em Foco",
+    "ano": 2019,
+    "professor": "Null",
+    "sinopse": "Nessa primeira aula realizaremos a introdução ao curso, passando os objetivos e a ementa do projeto didático.",
+    "videos": [{
+            "titulo": "Vanilla Javascript - #1 Introdução",
+            "video": "embed?v=7b2A0iiT5i8&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=1"
+        },
+        {
+            "titulo": "Vanilla Javascript - #2 Declarações e Literais",
+            "video": "embed?v=fk5mY6wXY6Q&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=2"
+        },
+        {
+            "titulo": "Vanilla Javascript - #3 Alertas, Caixas de Diálogos e Operadores",
+            "video": "embed?v=5mMJoa807Oc&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=3"
+        },
+        {
+            "titulo": "Vanilla Javascript - #4 Estruturas condicionais (switch, if)",
+            "video": "embed?v=tD1fzGxzdtQ&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=4"
+        },
+        {
+            "titulo": "Vanilla Javascript - #5 Funções",
+            "video": "embed?v=eQX2n5JwxHg&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=5"
+        },
+        {
+            "titulo": "Vanilla Javascript - #6 Objeto Window",
+            "video": "embed?v=-iFrnZ_udKE&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=6"
+        },
+        {
+            "titulo": "Vanilla Javascript - #7 Objetos Personalizados",
+            "video": "embed?v=d-OSjAQY0RA&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=7"
+        },
+        {
+            "titulo": "Vanilla Javascript - #8 Objetos Personalizados II",
+            "video": "embed?v=U3IVyqEgZac&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=8"
+        },
+        {
+            "titulo": "Vanilla Javascript - #9 Laços de Repetição",
+            "video": "embed?v=-It0TMKnRfo&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=9"
+        },
+        {
+            "titulo": "Vanilla Javascript - #10 Arrays",
+            "video": "embed?v=N288wm3gVBU&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=10"
+        },
+        {
+            "titulo": "Vanilla Javascript - #11 Métodos de Arrays I",
+            "video": "embed?v=HrjwmnW5ua0&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=11"
+        },
+        {
+            "titulo": "Vanilla Javascript - #12 Métodos de Arrays II",
+            "video": "embed?v=j5GnRNU4xS4&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=12"
+        },
+        {
+            "titulo": "Vanilla Javascript - #13 Métodos de Arrays III",
+            "video": "embed?v=whPYnib-prE&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=13"
+        },
+        {
+            "titulo": "Vanilla Javascript - #14 Hoisting",
+            "video": "embed?v=3ub-dTk434Q&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=14"
+        },
+        {
+            "titulo": "Vanilla Javascript - #15 this, use strict e iife",
+            "video": "embed?v=o8dpvAt20UA&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=15"
+        },
+        {
+            "titulo": "Vanilla Javascript - #16 typeof e Introdução ao JSON",
+            "video": "embed?v=a8OkvsG6GTk&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=16"
+        },
+        {
+            "titulo": "Vanilla Javascript - #17 Selecionando Elementos",
+            "video": "embed?v=V6WVwp25Fsg&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=17"
+        },
+        {
+            "titulo": "Vanilla Javascript - #18 Eventos",
+            "video": "embed?v=_IYgNEgx7nE&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=18"
+        },
+        {
+            "titulo": "Vanilla Javascript - #19 Eventos & Polimorfismo",
+            "video": "embed?v=87GNWUKGUjM&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=19"
+        },
+        {
+            "titulo": "Vanilla Javascript - #20 Delegação de eventos",
+            "video": "embed?v=mGXHxF4Lnlk&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=20"
+        },
+        {
+            "titulo": "Vanilla Javascript - #21 Propriedades e Atributos",
+            "video": "embed?v=IwBEtyaQIYM&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=21"
+        },
+        {
+            "titulo": "Vanilla Javascript - #22 Toggle",
+            "video": "embed?v=3lhX1TSQUxQ&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=22"
+        },
+        {
+            "titulo": "Vanilla Javascript - #23 Expressões Regulares",
+            "video": "embed?v=H3U0Uk7Bc7I&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=23"
+        },
+        {
+            "titulo": "Vanilla Javascript - #24 Expressões Regulares II",
+            "video": "embed?v=e8qCzQylRQQ&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=24"
+        },
+        {
+            "titulo": "Vanilla Javascript - #25 Formulários",
+            "video": "embed?v=BsZbyQ1ee68&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=25"
+        },
+        {
+            "titulo": "Vanilla Javascript - #26 Formulários II",
+            "video": "embed?v=Ob5uk2tCthM&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=26"
+        },
+        {
+            "titulo": "Vanilla Javascript - #27 Formulários III - File Preview",
+            "video": "embed?v=dbmLvuIhrkg&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=27"
+        },
+        {
+            "titulo": "Vanilla Javascript - #28 EventLoop, setTimeout e setInterval",
+            "video": "embed?v=Ic_EqH5zjJ4&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=28"
+        },
+        {
+            "titulo": "Vanilla Javascript - #29 Ajax com json",
+            "video": "embed?v=KvVMN9MZ_H0&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=29"
+        },
+        {
+            "titulo": "Vanilla Javascript - #30 Ajax com PHP",
+            "video": "embed?v=xoecK__aUOk&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=30"
+        },
+        {
+            "titulo": "Vanilla Javascript - #31 Ajax com NodeJS",
+            "video": "embed?v=2GUXmVNtyGU&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=31"
+        },
+        {
+            "titulo": "Vanilla Javascript - #32 Ajax com NodeJS II",
+            "video": "embed?v=9lhoOxtnC30&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=32"
+        },
+        {
+            "titulo": "Vanilla Javascript - #33 Progress Bar e Outras Propriedades Ajax",
+            "video": "embed?v=4LlxojV0M2k&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=33"
+        },
+        {
+            "titulo": "Vanilla Javascript - #34 Herança Prototípica",
+            "video": "embed?v=6YT-cHf0pC4&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=34"
+        },
+        {
+            "titulo": "Vanilla Javascript - #35 Herança através do Escopo Global",
+            "video": "embed?v=u0xlCGZP0ps&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=35"
+        },
+        {
+            "titulo": "Vanilla Javascript - #36 Módulos",
+            "video": "embed?v=QPSHZinxIDk&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=36"
+        },
+        {
+            "titulo": "Vanilla Javascript - #37 Classes",
+            "video": "embed?v=qwaF0zdq8Gc&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=37"
+        },
+        {
+            "titulo": "Vanilla Javascript - #38 Api Fetch com Promise",
+            "video": "embed?v=IuzZojitOec&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=38"
+        },
+        {
+            "titulo": "Vanilla Javascript - #39 Date e Minificar",
+            "video": "embed?v=Xq5lYUrMAXs&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=39"
+        },
+        {
+            "titulo": "Vanilla Javascript - #40 Compatibilizando com Babel e Webpack",
+            "video": "embed?v=iwbejW679AY&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=40"
+        },
+        {
+            "titulo": "Vanilla Javascript - #41 Compatibilizando com Babel e Webpack II",
+            "video": "embed?v=3aug31XGweU&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=41"
+        },
+        {
+            "titulo": "Vanilla Javascript - #42 Jquery, React e outras bibliotecas",
+            "video": "embed?v=brkeF9lc7Co&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=42"
+        },
+        {
+            "titulo": "Vanilla Javascript - #43 Função Debounce",
+            "video": "embed?v=A57az1EH4P4&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=43"
+        },
+        {
+            "titulo": "Vanilla Javascript - #44 Bubbling e Capturing",
+            "video": "embed?v=kDbg_UV5JY0&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=44"
+        },
+        {
+            "titulo": "Vanilla Javascript - #45 Call, Apply e Bind",
+            "video": "embed?v=wIU3ZEVkpWM&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=45"
+        },
+        {
+            "titulo": "Vanilla Javascript - #46 Template Strings",
+            "video": "embed?v=lXbaEw4Fp7c&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=46"
+        },
+        {
+            "titulo": "Vanilla Javascript - #47 Otimizando HTML, CSS e JS",
+            "video": "embed?v=VjeFRfW24qs&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=47"
+        },
+        {
+            "titulo": "CRUD NodeJS - #01 Introduction",
+            "video": "embed?v=r_GFSRragaI&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=48"
+        },
+        {
+            "titulo": "CRUD NodeJS - #02 Routes and Templates",
+            "video": "embed?v=E3JRebg2gCs&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=49"
+        },
+        {
+            "titulo": "CRUD NodeJS - #03 JS and CSS",
+            "video": "embed?v=XmlpIPlFX1o&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=50"
+        },
+        {
+            "titulo": "CRUD NodeJS - #04 Insert",
+            "video": "embed?v=NGITvjLyH2w&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=51"
+        },
+        {
+            "titulo": "CRUD NodeJS - #05 Select",
+            "video": "embed?v=XE1gGL5R8sA&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=52"
+        },
+        {
+            "titulo": "CRUD NodeJS - #06 Delete",
+            "video": "embed?v=LR9Yq15gRjQ&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=53"
+        },
+        {
+            "titulo": "CRUD NodeJS - #07 Update",
+            "video": "embed?v=dZZgq7TsEPE&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=54"
+        },
+        {
+            "titulo": "CRUD NodeJS - #08 Deploy I",
+            "video": "embed?v=qUmHjilVbjI&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=55"
+        },
+        {
+            "titulo": "CRUD NodeJS - #09 Deploy II",
+            "video": "embed?v=WzXixt22OkE&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=56"
+        },
+        {
+            "titulo": "CRUD NodeJS - #10 Modularização e Conclusão",
+            "video": "embed?v=61GhLoebkoE&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=57"
+        },
+        {
+            "titulo": "Exercício de Programação #01 - Javascript - Soma, média e ordem",
+            "video": "embed?v=lDnv58oBncY&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=58"
+        },
+        {
+            "titulo": "Exercício de Programação #05 - JS - Contagem e Limite de Caracteres",
+            "video": "embed?v=LiQcxaC2Ek4&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=59"
+        },
+        {
+            "titulo": "Certificado do Curso",
+            "video": "embed?v=e5WiSNkcKBI&list=PLbnAsJ6zlids-RjpuHaX6Kj0hY6hx71Qj&index=60"
+        }
+    ]
+}
