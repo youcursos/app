@@ -8,9 +8,28 @@ function requer() {
     }).then(function(resposta) {
         if (resposta.ok) {
             resposta.json().then(function(dados) {
+                var x = parseInt(dados.videos.length);
 
+                if (x >= 0 && x <= 20) {
+                    x = 50
+                } else if (x > 20 && x <= 30) {
+                    x = 80
+                } else if (x > 30 && x <= 40) {
+                    x = 85
+                } else if (x > 50 && x <= 70) {
+                    x = 90
+                } else if (x > 70 && x <= 100) {
+                    x = 90
+                } else if (x > 100 && x <= 150) {
+                    x = 92
+                } else if (x > 150) {
+                    x = 80
+                }
+
+                console.log(x)
+                jsonFile.style = `background: rgb(33, 37, 41);background: linear-gradient(0deg, rgba(33, 37, 41, 1) 0%, rgba(33, 37, 41, 1) ${parseInt(x)}%, rgba(245, 0, 0, 1) 100%);`
                 jsonFile.innerHTML = `
-            <div class="container">
+<div class="container">
             <!-- Just an image -->
             <nav class="navbar navbar-light">
                 <a class="navbar-brand" href="#">
