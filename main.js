@@ -34,8 +34,8 @@ var iconBusca = document.querySelector(".iconBusca")
 var campo = document.querySelector(".campo")
 
 iconBusca.onclick = function(e) {
-    e.preventDefault()
     campo.style.display == "block" ? campo.style.display = "none" : campo.style.display = "block"
+    campo.focus()
 }
 
 
