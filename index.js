@@ -26,8 +26,11 @@ function requer() {
                     x = 80
                 }
 
-                console.log(x)
+
                 jsonFile.style = `background: rgb(33, 37, 41);background: linear-gradient(0deg, rgba(33, 37, 41, 1) 0%, rgba(33, 37, 41, 1) ${parseInt(x)}%, rgba(245, 0, 0, 1) 100%);`
+
+
+
                 jsonFile.innerHTML = `
 <div class="container">
             <!-- Just an image -->
@@ -70,7 +73,7 @@ function requer() {
     
     
     
-        <div id="groupBtn">
+        <div id="groupBtn" class="pb-5">
     
         </div>
         `
