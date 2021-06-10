@@ -1,6 +1,6 @@
-let jsonFile = document.body
+let jsonFile = document.body;
 
-let nameFileJson = jsonFile.id + ".json"
+let nameFileJson = jsonFile.id + ".json";
 
 function requer() {
     fetch(nameFileJson, {
@@ -27,7 +27,7 @@ function requer() {
                 }
 
 
-                jsonFile.style = `background: rgb(33, 37, 41);background: linear-gradient(0deg, rgba(33, 37, 41, 1) 0%, rgba(33, 37, 41, 1) ${parseInt(x)}%, rgba(245, 0, 0, 1) 100%); background-attachment: fixed;`
+                jsonFile.style = `background: rgb(33, 37, 41);background: linear-gradient(0deg, rgba(33, 37, 41, 1) 0%, rgba(33, 37, 41, 1) ${parseInt(x)}%, rgba(245, 0, 0, 1) 100%); background-repeat: no-repeat;`
 
 
 
