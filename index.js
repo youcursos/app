@@ -5,10 +5,11 @@ let nameFileJson = jsonFile.id + ".json"
 function requer() {
     fetch(nameFileJson, {
         method: "get"
-    }).then(function (resposta) {
-        resposta.json().then(function (dados) {
+    }).then(function(resposta) {
+        if (resposta.ok) {
+            resposta.json().then(function(dados) {
 
-            jsonFile.innerHTML = `
+                jsonFile.innerHTML = `
             <div class="container">
             <!-- Just an image -->
             <nav class="navbar navbar-light">
@@ -28,7 +29,7 @@ function requer() {
         </div>
         <div class="header">
             <div class="embed-responsive embed-responsive-21by9 w-100 h-100">
-                <iframe class="embed-responsive-item" id="video" frameborder="0" allowfullscreen src="${dados.videos[0].video}"> </iframe>
+                <iframe class="embed-responsive-item" id="video" frameborder="0" allowfullscreen src=""> </iframe>
                 
             </div>
         </div>
@@ -50,76 +51,55 @@ function requer() {
     
     
     
-        <div id="groupBtn" class="mb-2 pb-2">
+        <div id="groupBtn">
     
         </div>
         `
 
-            var group = document.querySelector("#groupBtn");
+                var group = document.querySelector("#groupBtn");
+
+                /* var titulo = document.querySelector("#titulo"); var titulo2 = document.querySelector("#titulo2"); var canal = document.querySelector("#canal"); var anoProf = document.querySelector("#ano-Prof"); var sinopse = document.querySelector("#sinopse"); /* Titulo da Pagina  document.title += " - " + dados.titulotitulo.innerHTML = dados.titulo titulo2.innerHTML = dados.titulo canal.innerHTML = `Canal: ${dados.canal}` anoProf.innerHTML = `Professor: ${dados.professor} - Ano: ${dados.ano}`
+                sinopse.innerHTML = dados.sinopse*/
+
+                video.src = `https://www.youtube.com/embed/${dados.videos[0].video}`
 
 
-
-
-            /* 
-                        var titulo = document.querySelector("#titulo");
-                        var titulo2 = document.querySelector("#titulo2");
-                        var canal = document.querySelector("#canal");
-                        var anoProf = document.querySelector("#ano-Prof");
-                        var sinopse = document.querySelector("#sinopse");
-
-
-                        /* Titulo da Pagina 
-                        document.title += " - " + dados.titulo
-                        titulo.innerHTML = dados.titulo
-                        titulo2.innerHTML = dados.titulo
-                        canal.innerHTML = `Canal: ${dados.canal}`
-                        anoProf.innerHTML = `Professor: ${dados.professor} - Ano: ${dados.ano}`
-                        sinopse.innerHTML = dados.sinopse
-             */
-            video.src = `https://www.youtube.com/embed/${dados.videos[0].video}`
-
-
-            for (let i = 0; i < dados.videos.length; i++) {
-                group.innerHTML += `
-            <div class="btnSrc" src="https://www.youtube.com/${dados.videos[i].video}">
-            ${dados.videos[i].titulo.slice(0, 50)} 
-           <i  class="fas fa-play" src="https://www.youtube.com/${dados.videos[i].video}"></i>
+                for (let i = 0; i < dados.videos.length; i++) {
+                    group.innerHTML += `
+            <div class="btnSrc" src="https://www.youtube.com/${dados.videos[i].video}"> ${dados.videos[i].titulo.slice(0, 50)} 
+                <i  class="fas fa-play" src="https://www.youtube.com/${dados.videos[i].video}"></i>
            </div>`
-            }
-
-            group.onclick = function (e) {
-                if (e.target.hasAttribute("src")) {
-                    window.scrollTo({
-                        top: 0,
-                        behavior: 'smooth'
-                    });
-                    e.stopPropagation();
-
-                    var video = document.getElementById("video");
-                    var alvo = e.target.attributes[1].textContent
-
-                    /* console.log(e.target)
-                    console.log(alvo) */
-
-                    var srcVideo = alvo
-                    video.src = srcVideo
-                } else {
-                    return false
                 }
 
-            };
+                group.onclick = function(e) {
+                    if (e.target.hasAttribute("src")) {
+                        window.scrollTo({
+                            top: 0,
+                            behavior: 'smooth'
+                        });
+                        e.stopPropagation();
 
-            function backPag() {
+                        var video = document.getElementById("video");
+                        var alvo = e.target.attributes[1].textContent
 
-                window.location = "../index.html"
-            }
+                        /* console.log(e.target)
+                        console.log(alvo) */
 
-            var voltar = document.getElementById("voltar")
+                        var srcVideo = alvo
+                        video.src = srcVideo
+                    } else {
+                        return false
+                    }
 
-            voltar.onclick = backPag
+                };
 
-        })
-    }).catch(function () {
-        console.log("Error de Servidor");
-    })
+                document.getElementById("voltar").onclick = () => { window.location = "../index.html" }
+
+            })
+        } else {
+            jsonFile.innerHTML = `<h1 class="text-danger d-flex justify-content-center pt-5 mt-5">404 (Not Found)</h1>`
+        }
+    }).catch(function(error) {
+        console.log(error.message);
+    });
 }
