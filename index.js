@@ -1,6 +1,6 @@
-let jsonFile = document.body;
+let jsonFile = document.body
 
-let nameFileJson = jsonFile.id + ".json";
+let nameFileJson = jsonFile.id + ".json"
 
 function requer() {
     fetch(nameFileJson, {
@@ -27,55 +27,68 @@ function requer() {
                 }
 
 
-                jsonFile.style = `height: 100vh; background: rgb(33, 37, 41);background: linear-gradient(0deg, rgba(33, 37, 41, 1) 0%, rgba(33, 37, 41, 1) ${parseInt(x)}%, rgba(245, 0, 0, 1) 100%); background-repeat: no-repeat;`
+                /*   jsonFile.style = `
+                  background: rgb(33, 37, 41);
+                  height: 100%;
+                  background: linear-gradient(0deg, rgba(33, 37, 41, 1) 0%, rgba(33, 37, 41, 1) ${parseInt(x)}%, rgba(245, 0, 0, 1) 100%); ;
+                  background-repeat: no-repeat;
+                  
+                  ` */
 
 
 
                 jsonFile.innerHTML = `
-<div class="container">
-            <!-- Just an image -->
-            <nav class="navbar navbar-light">
-                <a class="navbar-brand" href="#">
-                    <img src="../image/logo.png" width="30" height="30" alt="">
-                </a>
-    
-            </nav>
-        </div>
-    
-        <div class="controle">
-            <i class="fas fa-arrow-left" id="voltar"></i>
-            <!-- Voltar -->
-            <h3 id="titulo">
-                ${dados.titulo}
-            </h3>
-        </div>
-        <div class="header">
-            <div class="embed-responsive embed-responsive-21by9 w-100 h-100">
-                <iframe class="embed-responsive-item" id="video" frameborder="0" allowfullscreen src=""> </iframe>
+        <div style="overflow:hidden; background: rgb(33, 37, 41); height: 100%; background: linear-gradient(0deg, rgba(33, 37, 41, 1) 0%, rgba(33, 37, 41, 1) ${parseInt(x)}%, rgba(245, 0, 0, 1) 100%); ; background-repeat: no-repeat;">
                 
-            </div>
+                <div class="container">
+                        <!-- Just an image -->
+                    <nav class="navbar navbar-light">
+                            <a class="navbar-brand" href="#">
+                                <img src="../image/logo.png" width="30" height="30" alt="">
+                            </a>
+                
+                    </nav>
+                </div>
+            
+                <div class="controle container">
+                    <i class="fas fa-arrow-left" id="voltar"></i>
+                    <!-- Voltar -->
+                    <h3 id="titulo">
+                        ${dados.titulo}
+                    </h3>
+                </div>
+
+                <div class="container">
+                    <div class="header">
+                        <div class="embed-responsive embed-responsive-21by9 w-100 h-100 mx-1">
+                            <iframe class="embed-responsive-item" id="video" frameborder="0" allowfullscreen src=""> </iframe>
+                        </div>
+                    </div>
+                    <h3 class="tituloCurso" id="titulo2"></h3>
+
+                    <div class="details">
+                        <p class="relevant" id="canal">
+                        Canal: ${dados.canal} - Videos: ${dados.videos.length}
+                
+                            <p class="temp" id="ano-Prof">
+                            Professor: ${dados.professor} - Ano: ${dados.ano}
+                            </p>
+                    </div>
+                
+            
+                <p class="sinopse" id="sinopse">${dados.sinopse}</p>
+
+                </div>
         </div>
-        <h3 class="tituloCurso" id="titulo2">
-        </h3>
-        <div class="details">
-            <p class="relevant" id="canal">
-            Canal: ${dados.canal} - Videos: ${dados.videos.length}
     
-                <p class="temp" id="ano-Prof">
-                Professor: ${dados.professor} - Ano: ${dados.ano}
-                </p>
+    
+        <div id="groupBtn" class="pb-5 container"></div>
         </div>
-    
-    
-        <p class="sinopse" id="sinopse">
-        ${dados.sinopse}
-        </p>
-    
-    
-    
-        <div id="groupBtn" class="pb-5">
-    
+        <footer class="mastfoot mt-auto d-flex justify-content-center align-items-center text-light">
+        <div class="inner">
+          <p>You Cursos</p>
         </div>
+      </footer>
         `
 
                 var group = document.querySelector("#groupBtn");
