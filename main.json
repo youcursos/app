@@ -1,88 +1,50 @@
-{
-    "contente": [{
-            "link": "pages/soyDaltoJs.html",
-            "linkImg": "https://i.ytimg.com/vi/z95mZVUcJ-E/maxresdefault.jpg",
-            "titulo": "Curso de JAVASCRIPT desde CERO (Completo)",
-            "tags": "JavaScript, Iniciante, Intermediário. Avançado"
-        },
-        {
-            "link": "pages/JavaScriptCursoEmVideo.html",
-            "linkImg": "https://i.ytimg.com/vi/BXqUH86F-kA/maxresdefault.jpg",
-            "titulo": "Curso de Javascript Gustavo Guanabara",
-            "tags": "JavaScript, Iniciante, Intermediário"
-        },
-        {
-            "link": "pages/CFBCursos.html",
-            "linkImg": "https://i.ytimg.com/vi/a8HT2wZq2mc/maxresdefault.jpg",
-            "titulo": "Curso de Javascript Fessor Bruno",
-            "tags": "JavaScript, Iniciante, Intermediário"
-        },
-        {
-            "link": "pages/nodeStudioTreinamentos.html",
-            "linkImg": "https://i.ytimg.com/vi/uFMUdv1W1p4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBCixCLjwcKusCKKuHpwAJn7YZ3bg",
-            "titulo": "Curso de Javascript Node Studio Treinamentos",
-            "tags": "JavaScript, Iniciante, Intermediário"
-        },
-        {
-            "link": "pages/kevenjesus.html",
-            "linkImg": "https://i.ytimg.com/vi/ftWXUUM5YxU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA67UPEhePBCRgF11-gzTmV3NGyKQ",
-            "titulo": "Curso de Javascript Completo GRÁTIS!",
-            "tags": "JavaScript Jquery, Iniciante, Intermediário"
-        },
-        {
-            "link": "pages/horadeCodar.html",
-            "linkImg": "https://i.ytimg.com/vi/TkD0QMyBa28/maxresdefault.jpg",
-            "titulo": "Curso JavaScript - Hora de Codar",
-            "tags": "JavaScript"
-        },
-        {
-            "link": "pages/hitesh.html",
-            "linkImg": "https://i.ytimg.com/vi/2md4HQNRqJA/maxresdefault.jpg",
-            "titulo": "Course Javascript - Hitesh Choudhary",
-            "tags": "JavaScript"
-        },
-        {
-            "link": "pages/florinPop.html",
-            "linkImg": "https://i.ytimg.com/vi/ZHsPVhkTUDg/maxresdefault.jpg",
-            "titulo": "ForEach Array Method | JavaScript Tutorial",
-            "tags": "JavaScript"
-        },
-        {
-            "link": "pages/pierreGiraud.html",
-            "linkImg": "https://i.ytimg.com/vi/VZLflMqC6dI/maxresdefault.jpg",
-            "titulo": "COURS COMPLET JAVASCRIPT - Pierre Giraud",
-            "tags": "JavaScript Iniciante"
-        },
-        {
-            "link": "pages/pildorasinformaticas.html",
-            "linkImg": "https://i.ytimg.com/vi/m2nscBtQEIs/maxresdefault.jpg",
-            "titulo": "Curso JavaScript desde 0 - pildoras informaticas",
-            "tags": "JavaScript, Iniciante, Intermediário"
-        },
-        {
-            "link": "pages/yahooBabaJquery.html",
-            "linkImg": "https://i.ytimg.com/vi/QvaFeU0LWnc/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDouAD461GGley_L3RL_q0oM1VdXQ",
-            "titulo": "Tutoriais jQuery em hindi / urdu",
-            "tags": "JavaScript, Jquery"
-        },
-        {
-            "link": "pages/yahooBabaJs.html",
-            "linkImg": "https://i.ytimg.com/vi/IUFJzLlf2cE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCx70YS5nOUQCs8-U-yqCHkcQJQdA",
-            "titulo": "Advance JavaScript Tutorial in Hindi / Urdu",
-            "tags": "JavaScript Iniciante"
-        },
-        {
-            "link": "pages/yahoobabaJsBeginners.html",
-            "linkImg": "https://i.ytimg.com/vi/Lgxgm-T9cgA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBQLNvwCjrciI31brv2JPo39tLuCA",
-            "titulo": "JavaScript Tutorial for beginners in Hindi / Urdu",
-            "tags": "JavaScript, Iniciante"
-        },
-        {
-            "link": "pages/webDesignerEmFoco.html",
-            "linkImg": "https://i.ytimg.com/vi/7b2A0iiT5i8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAj2L3wtTpiAPqsikDNcPOmmHYUxA",
-            "titulo": "VANILLA JAVASCRIPT - Web Designer Em Foco",
-            "tags": "JavaScript, Iniciante"
-        }
-    ]
+function loadJson() {
+    fetch('main.json', {
+        method: "get"
+    }).then(function(resposta) {
+        var recebe = document.querySelector("#recebe")
 
+        resposta.json().then(function(data) {
+            let dados = data.contente
+            var campoBusca = document.querySelector("#campo").value
+
+            campoBusca
+            recebe.innerHTML = ""
+            for (let i = 0; i < dados.length; i++) {
+                /* Busca */
+                if (dados[i].tags.includes(campoBusca.trim()) || dados[i].titulo.includes(campoBusca.trim())) {
+
+                    recebe.innerHTML += `<div class="cardCursos pb-1">
+                    <a href="${dados[i].link}">
+                        <img src="${dados[i].linkImg}" class="card-img-top " alt="...">
+                        <div class="card-body text-white d-flex justify-content-center align-itens-center ">
+                            <h6 class="card-title">${dados[i].titulo}</h6>
+                        </div>
+                    </a>
+                    <p class="tags">Tags: ${dados[i].tags}</p>
+                    </div>`
+
+                }
+            }
+        })
+
+
+    })
 }
+
+var iconBusca = document.querySelector(".iconBusca")
+var campo = document.querySelector(".campo")
+
+iconBusca.onclick = function(e) {
+    campo.style.display == "block" ? campo.style.display = "none" : campo.style.display = "block"
+    campo.focus()
+}
+
+
+/* 
+document.addEventListener('mouseup', function(e) {
+    e.preventDefault()
+    if (!campo.contains(e.target)) {
+        campo.style.display = "none"
+    }
+}) */
