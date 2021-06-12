@@ -8,7 +8,7 @@ function requer() {
     }).then(function(resposta) {
         if (resposta.ok) {
             resposta.json().then(function(dados) {
-                var x = parseInt(dados.videos.length);
+                /* var x = parseInt(dados.videos.length);
 
                 if (x >= 0 && x <= 20) {
                     x = 50
@@ -24,7 +24,7 @@ function requer() {
                     x = 92
                 } else if (x > 150) {
                     x = 80
-                }
+                } */
 
 
                 /*   jsonFile.style = `
@@ -38,7 +38,7 @@ function requer() {
 
 
                 jsonFile.innerHTML = `
-        <div style="overflow:hidden; background: rgb(33, 37, 41); height: 100%; background: linear-gradient(0deg, rgba(33, 37, 41, 1) 0%, rgba(33, 37, 41, 1) ${parseInt(x)}%, rgba(245, 0, 0, 1) 100%); ; background-repeat: no-repeat;">
+        <div style="overflow:hidden; background: rgb(33, 37, 41); height: 100%; background: linear-gradient(0deg, rgba(33, 37, 41, 1) 0%, rgba(33, 37, 41, 1) 50%, rgba(245, 0, 0, 1) 100%); ; background-repeat: no-repeat;">
                 
                 <div class="container">
                         <!-- Just an image -->
