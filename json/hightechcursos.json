@@ -1,0 +1,132 @@
+{
+    "titulo": "Vanilão JavaScript Completo",
+    "canal": "hightechcursos",
+    "ano": 2020,
+    "professor": "Virmerson",
+    "sinopse": "Introdução, curso completo de Vanilla Java Script.",
+    "videos": [{
+            "titulo": "#1 Introdução - Curso Vanilão JavaScript",
+            "video": "embed?v=PJDnz5Se9xI&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=1"
+        },
+        {
+            "titulo": "#2 Front-end e Back-end - Curso Vanilão JavaScript",
+            "video": "embed?v=ZutsWKntOEQ&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=2"
+        },
+        {
+            "titulo": "#3 Visual Studio como IDE - Curso Vanilão JavaScript",
+            "video": "embed?v=NVeHNyjNfUg&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=3"
+        },
+        {
+            "titulo": "#4 Inspetor de Elemento - Curso Vanilão JavaScript",
+            "video": "embed?v=P_jktdKdpr0&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=4"
+        },
+        {
+            "titulo": "#5 Variáveis (Escopos) - Curso Vanilão JavaScript",
+            "video": "embed?v=DDPderiPQQk&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=5"
+        },
+        {
+            "titulo": "#6 Variáveis (Tipagem Dinâmica) - Curso Vanilão JavaScript",
+            "video": "embed?v=_gKB-OwC7LU&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=6"
+        },
+        {
+            "titulo": "#7 Variáveis (Referências) - Curso Vanilão JavaScript",
+            "video": "embed?v=ZvG5bV8jwbo&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=7"
+        },
+        {
+            "titulo": "#8 Variáveis (Valores Primitivos) - Curso Vanilão JavaScript",
+            "video": "embed?v=_tlyEYGnPDU&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=8"
+        },
+        {
+            "titulo": "#9 Objetos e String Array - Curso Vanilão JavaScript",
+            "video": "embed?v=HZ_5mQ0NVZA&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=9"
+        },
+        {
+            "titulo": "#10 Percorrendo Array - Curso Vanilão JavaScript",
+            "video": "embed?v=-mXpGQ0COls&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=10"
+        },
+        {
+            "titulo": "#11 Array e Objetos",
+            "video": "embed?v=KqvmfDPbUpA&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=11"
+        },
+        {
+            "titulo": "#12 String - Curso Vanilão JavaScript",
+            "video": "embed?v=PT35vr15emM&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=12"
+        },
+        {
+            "titulo": "#13 Funções - Curso Vanilão JavaScript",
+            "video": "embed?v=MNQYCqyBSh8&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=13"
+        },
+        {
+            "titulo": "#14 Condicionais (If-Else) - Curso Vanilão JavaScript",
+            "video": "embed?v=ybcfUNQM8DI&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=14"
+        },
+        {
+            "titulo": "#15 Condicionais (Switch-Case) - Curso Vanilão JavaScript",
+            "video": "embed?v=G4hZ18ywLbA&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=15"
+        },
+        {
+            "titulo": "#16 Comunicação entre Funções - Curso Vanilão JavaScript",
+            "video": "embed?v=caLgVo2GOl8&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=16"
+        },
+        {
+            "titulo": "#17 Escopo (Let e Var) - Curso Vanilão JavaScript",
+            "video": "embed?v=2QT6prih76Y&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=17"
+        },
+        {
+            "titulo": "#18 Escopo (Const) - Curso Vanilão JavaScript",
+            "video": "embed?v=EE9uf6-rbsw&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=18"
+        },
+        {
+            "titulo": "#19 Orientação à Objetos (Funções) - Curso Vanilão JavaScript",
+            "video": "embed?v=yoiM7Ea0yd0&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=19"
+        },
+        {
+            "titulo": "#20 Orientação à Objetos (Classes) - Curso Vanilão JavaScript",
+            "video": "embed?v=w7RWgnmgWAc&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=20"
+        },
+        {
+            "titulo": "#21 Orientação à Objetos (Estáticos) - Curso Vanilão JavaScript",
+            "video": "embed?v=COBf5ZsBjk8&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=21"
+        },
+        {
+            "titulo": "#22 Promise - Curso Vanilão JavaScript",
+            "video": "embed?v=MZcIAiYjbDc&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=22"
+        },
+        {
+            "titulo": "#23 Async-Await - Curso Vanilão JavaScript",
+            "video": "embed?v=VMmxqax5ZDA&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=23"
+        },
+        {
+            "titulo": "#24 Protocolo HTTP - Curso Vanilão JavaScript",
+            "video": "embed?v=8u0aGKO85iI&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=24"
+        },
+        {
+            "titulo": "#25 Fetch - Curso Vanilão JavaScript",
+            "video": "embed?v=Nyt2nEtft8g&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=25"
+        },
+        {
+            "titulo": "#26 Módulos (Introdução) - Curso Vanilão JavaScript",
+            "video": "embed?v=XMl5qvD7EzQ&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=26"
+        },
+        {
+            "titulo": "#27 Módulos (Import-Export) - Curso Vanilão JavaScript",
+            "video": "embed?v=6Avdyl8YgWg&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=27"
+        },
+        {
+            "titulo": "#28 Módulos (Library) - Curso Vanilão JavaScript",
+            "video": "embed?v=Yeg_ZqtH4pQ&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=28"
+        },
+        {
+            "titulo": "#29 Módulos (Import Alias) - Curso Vanilão JavaScript",
+            "video": "embed?v=vqhjcG_HUkw&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=29"
+        },
+        {
+            "titulo": "#30 Módulos (Export Alias) - Curso Vanilão JavaScript",
+            "video": "embed?v=tLQay5sVU3w&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=30"
+        },
+        {
+            "titulo": "#31 Módulos (Export Default) - Curso Vanilão JavaScript",
+            "video": "embed?v=ksjSumYp1I0&list=PLKvsMn7xWutZ64gPRZ5rTNB2HEZiN1nK8&index=31"
+        }
+    ]
+}
