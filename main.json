@@ -82,6 +82,12 @@
             "linkImg": "https://i.ytimg.com/vi/7b2A0iiT5i8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAj2L3wtTpiAPqsikDNcPOmmHYUxA",
             "titulo": "VANILLA JAVASCRIPT - Web Designer Em Foco",
             "tags": "JavaScript, Iniciante"
+        },
+        {
+            "link": "pages/hightechcursos.html",
+            "linkImg": "https://i.ytimg.com/vi/PJDnz5Se9xI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDHNtm_lGQJeVJjgupSHAtYF1G8ew",
+            "titulo": "Curso Completo de JavaScript Vanilla (purão sem frameworks ou libs)",
+            "tags": "JavaScript, Vanilla, Front-end, Back-end, Iniciante"
         }
     ]
 
