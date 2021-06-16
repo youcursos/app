@@ -75,7 +75,7 @@
             "link": "pages/yahoobabaJsBeginners.html",
             "linkImg": "https://i.ytimg.com/vi/Lgxgm-T9cgA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBQLNvwCjrciI31brv2JPo39tLuCA",
             "titulo": "JavaScript Tutorial for beginners in Hindi / Urdu",
-            "tags": "javaScript, iniciante javascript tutorial for beginners in hindi / urdu"
+            "tags": "javascript,introduction,tutorial,in,hindi,/,urdu,javascript,implementation,add,html,tags,comments,variables,(,let,&,const,)t,window,open,close,method,moveby,moveto,resizeby,resizeto,scrollby,scrollto,location,object,history,advance"
         },
         {
             "link": "pages/webDesignerEmFoco.html",
@@ -88,7 +88,12 @@
             "linkImg": "https://i.ytimg.com/vi/PJDnz5Se9xI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDHNtm_lGQJeVJjgupSHAtYF1G8ew",
             "titulo": "Curso Completo de JavaScript Vanilla (purão sem frameworks ou libs)",
             "tags": "javaScript, vanilla, front-end, back-end, iniciante, curso completo de javascript vanilla (purão sem frameworks ou libs)"
+        },
+        {
+            "link": "pages/freeCodeCampJs.html",
+            "linkImg": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLARTwsn5j4nf15r7gD_EoFuznRbxg",
+            "titulo": "Tutoriais de JavaScript - Free Code Camp",
+            "tags": "learn,javascript,-,full,course,for,beginners,web,development,tutorial,javascript,,html,,css,rock,paper,scissors,game,data,structures,and,algorithms,in,project,tutorial:,budget,app,intro,to,with,snake,using,functional,programming,tic,tac,toe,unbeatable,ai,w/,minimax,algorithm,create,a,platformer,shopping,cart,simon,memory,card,code,asteroids,(1979,atari,game),how,build,discord,bot,chatbot,3d,wireframe,renderer,your,own,youtube,app:,api,+,html,(full,tutorial),async/await,dropbox,/,es6,expense,organizer,regular,expressions,(regex),crash,magic,trick,&,node.js,the,great,gatsby,bootcamp,gatsby.js,e-commerce,from,scratch,tetris:,15,projects,vanilla,by,building,7,games,flappy,bird,doodle,jump,mobile,first,,accessibility,,persistent,data,,sass,"
         }
     ]
-
 }
