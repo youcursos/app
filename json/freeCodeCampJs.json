@@ -1,0 +1,112 @@
+{
+    "titulo": "Tutoriais de JavaScript - Free Code Camp",
+    "canal": "FreeCodeCamp",
+    "ano": 2020,
+    "professor": "FreeCodeCamp",
+    "sinopse": "Uma coleção de tutoriais de JavaScript.",
+    "videos": [{
+            "titulo": "Learn JavaScript - Full Course for Beginners",
+            "video": "embed?v=PkZNo7MFNFg&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=1"
+        },
+        {
+            "titulo": "Web Development Tutorial - JavaScript, HTML, CSS - Rock Paper Scissors Game",
+            "video": "embed?v=jaVNP3nIAv0&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=2"
+        },
+        {
+            "titulo": "Data Structures and Algorithms in JavaScript - Full Course for Beginners",
+            "video": "embed?v=t2CEgPsws3U&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=3"
+        },
+        {
+            "titulo": "Javascript Project Tutorial: Budget App",
+            "video": "embed?v=m_HJ3juuFvo&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=4"
+        },
+        {
+            "titulo": "Intro to Game Development with JavaScript - Full Tutorial",
+            "video": "embed?v=3EMxBkqC4z0&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=5"
+        },
+        {
+            "titulo": "JavaScript Snake Game Tutorial Using Functional Programming",
+            "video": "embed?v=bRlvGoWz6Ig&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=6"
+        },
+        {
+            "titulo": "JavaScript Tic Tac Toe Project Tutorial - Unbeatable AI w/ Minimax Algorithm",
+            "video": "embed?v=P2TcQ3h0ipQ&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=7"
+        },
+        {
+            "titulo": "Create a Platformer Game with JavaScript - Full Tutorial",
+            "video": "embed?v=w-OKdSHRlfA&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=8"
+        },
+        {
+            "titulo": "JavaScript Project Tutorial: Shopping Cart",
+            "video": "embed?v=q_TZhCWbS3I&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=9"
+        },
+        {
+            "titulo": "Simon Game JavaScript Tutorial for Beginners",
+            "video": "embed?v=n_ec3eowFLQ&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=10"
+        },
+        {
+            "titulo": "Memory Card Game - JavaScript Tutorial",
+            "video": "embed?v=ZniVgo8U7ek&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=11"
+        },
+        {
+            "titulo": "Code Asteroids in JavaScript (1979 Atari game) - tutorial",
+            "video": "embed?v=H9CSWMxJx84&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=12"
+        },
+        {
+            "titulo": "How to Build a Discord Bot - Full JavaScript Chatbot Tutorial",
+            "video": "embed?v=8o25pRbXdFw&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=13"
+        },
+        {
+            "titulo": "Create a 3D Wireframe Renderer - JavaScript Tutorial",
+            "video": "embed?v=9HOvkVQjGf8&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=14"
+        },
+        {
+            "titulo": "Code your own YouTube app: YouTube API + HTML + CSS + JavaScript (full tutorial)",
+            "video": "embed?v=9sWEecNUW-o&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=15"
+        },
+        {
+            "titulo": "Async/Await - JavaScript Tutorial",
+            "video": "embed?v=jAAmI5gMlVo&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=16"
+        },
+        {
+            "titulo": "Dropbox API / JavaScript ES6 Tutorial - Expense Organizer",
+            "video": "embed?v=AzCQrjWQJs4&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=17"
+        },
+        {
+            "titulo": "Learn Regular Expressions (Regex) - Crash Course for Beginners",
+            "video": "embed?v=ZfQFUJhPqMM&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=18"
+        },
+        {
+            "titulo": "Code a magic card trick using JavaScript & Node.js - Tutorial",
+            "video": "embed?v=h21pa3yeW08&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=19"
+        },
+        {
+            "titulo": "The Great Gatsby Bootcamp - Full Gatsby.js Tutorial Course",
+            "video": "embed?v=kzWIUX3CpuI&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=20"
+        },
+        {
+            "titulo": "E-Commerce JavaScript Tutorial - Shopping Cart from Scratch",
+            "video": "embed?v=023Psne_-_4&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=21"
+        },
+        {
+            "titulo": "Code Tetris: JavaScript Tutorial for Beginners",
+            "video": "embed?v=rAUn1Lom6dw&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=22"
+        },
+        {
+            "titulo": "Build 15 JavaScript Projects - Vanilla JavaScript Course",
+            "video": "embed?v=3PHXvlpOkf4&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=23"
+        },
+        {
+            "titulo": "Learn JavaScript by Building 7 Games - Full Course",
+            "video": "embed?v=lhNdUVh3qCc&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=24"
+        },
+        {
+            "titulo": "JavaScript Tutorial: Build Flappy Bird and Doodle Jump",
+            "video": "embed?v=8xPsg6yv7TU&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=25"
+        },
+        {
+            "titulo": "Web App Tutorial - JavaScript, Mobile First, Accessibility, Persistent Data, Sass",
+            "video": "embed?v=y51Cv4wnsPw&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V&index=26"
+        }
+    ]
+}
