@@ -33,19 +33,19 @@
             "link": "pages/horadeCodar.html",
             "linkImg": "https://i.ytimg.com/vi/TkD0QMyBa28/maxresdefault.jpg",
             "titulo": "Curso JavaScript - Hora de Codar",
-            "tags": "Javascript curso javascript hora de codar"
+            "tags": "curso javascript #01 - introdução curso #02 primeiro programa curso #03 como inserir código em uma página web curso #04 particularidades da linguagem javascript curso #05 declarando variáveis curso #06 tipos de dados curso #07 utilizar strings curso #08 boolean curso #09 null e undefined curso #10 dados objeto curso #11 arrays curso #12 operador condicional if curso #13 operadores comparação curso #14 else if else curso #15 comparação valor tipo dado curso #16 lógico and (&&) curso #17 or (||) curso #18 not (!) curso #19 estrutura repetição while curso #20 atribuição curso #21 for (estrutura loop) curso #22 break continue curso #23 funções (function) curso #24 alterando o dom com um for curso #25 escopo js (scope) curso #26 let const curso #27 métodos numéricos (parseint  parsefloat) curso #28 funções string (touppercase  tolowercase  length) curso #29 parte 2 curso #30 array curso #31 array #32 criando objetos métodos curso #33 utilizando this curso #34 o que é dom? (document object model) curso #35 acessando elementos através do dom curso #36 queryselector queryselectorall curso #37 alterar conteúdo elemento (textcontent innerhtml) curso #38 (createelement) curso #39 removendo (removechild) curso #40 inserindo (appendchild insertbefore) curso #41 trocando (replacechild) curso #42 adicionando atributo (setattribute) curso #43 css pelo #44 propriedades document curso #45 callback functions curso #46 settimeout setinterval curso #47 cleartimeout clearinterval curso #48 eventos onload curso #49 click dblclick #50 mouseover mouseout curso #51 keydown keyup curso #52 projeto curso curso #53 finalizando css curso #54 eventos ao projeto"
         },
         {
             "link": "pages/hitesh.html",
             "linkImg": "https://i.ytimg.com/vi/2md4HQNRqJA/maxresdefault.jpg",
             "titulo": "Course Javascript - Hitesh Choudhary",
-            "tags": "javaScript course javascript - hitesh choudhary course javascript - hitesh choudhary"
+            "tags": "welcome to new   welcome    what are engineswhat es version of  is good for usvariable and datatypes in  our first user signupoperators  calculate discounttype operator precedence  what conditionals  logical conditional login  ternary operator  switch role based access  coercion falsy values  basics functions  functions variable role  understand the context  code hoisting  scope chaining  light intro this  introduction array  callback arrow function introduction arrayfill filter  slice splice  objects  methods objects  for loop basics  while do while loops  while each  confusing part domwhat domhow grab web elements  a counter project  get computed properties  event listener   new keyword  what proto  better code with object chain  objects from mdn docsself executing anonymous function functional programminglexical scoping  closure  borrow a method using bindget know node elements  generating text domsolution scope problem  template literals  maps  destructure data  spread rest operators  classes module exports  private props getters setters  inheritance will wait?promise async await  how handle api game fileslogic  fixing bug 2021why iife appears interviewswelcome  course welcome   what engines us variable our signup operators discount type logical ternary switch coercion basics functions understand code light introduction callback array fill slice objects methods for while confusing dom how javascript"
         },
         {
             "link": "pages/florinPop.html",
             "linkImg": "https://i.ytimg.com/vi/ZHsPVhkTUDg/maxresdefault.jpg",
             "titulo": "ForEach Array Method | JavaScript Tutorial",
-            "tags": "javaScript foreach array method | javascript tutorial array method | javascript tutorial"
+            "tags": "foreach array method | javascript lmap tutorialfilter tutorialreduce lslice lsplice lsort lconcat lfill lincludes ljoin lreverse lpush lpop lunshift lshift lindexof and lastindexof methods levery lsome lfind lfindindex lfrom lisarray lflat lforeach array method | javascript l map filter reduce slice splice sort concat fill includes join reverse push pop unshift shift indexof and lastindexof methods every some find findindex from isarray flat"
         },
         {
             "link": "pages/pierreGiraud.html",
